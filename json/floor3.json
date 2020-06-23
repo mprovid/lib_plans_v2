@@ -1,0 +1,7544 @@
+{
+	"floor": 3,
+	"status": "final",
+	"createdBy": "M. Providenti",
+	"createdOn": "2018-06-18",
+	"lastEditBy": "M. Providenti",
+	"lastEditOn": "2018-07-25",
+	"collection": [{
+			"shelfRow": [{
+				"id": 1,
+				"type": "gov",
+				"aisle": 2,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "KY_",
+							"lcSubClass": [{
+								"subClass": "KY",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "KY_",
+							"lcSubClass": [{
+								"subClass": "KY",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "KY_",
+							"lcSubClass": [{
+								"subClass": "KY",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "KY_",
+							"lcSubClass": [{
+								"subClass": "KY",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "KY_",
+							"lcSubClass": [{
+								"subClass": "KY",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "KY_",
+							"lcSubClass": [{
+								"subClass": "KY",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "KY_",
+							"lcSubClass": [{
+								"subClass": "KY",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "KY_",
+							"lcSubClass": [{
+								"subClass": "KY",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "KY_",
+							"lcSubClass": [{
+								"subClass": "KY",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 2,
+				"type": "gov",
+				"aisle": 3,
+				"facing": "west",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "KY_",
+							"lcSubClass": [{
+								"subClass": "KY",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "KY_",
+							"lcSubClass": [{
+								"subClass": "KY",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "KY_",
+							"lcSubClass": [{
+								"subClass": "KY",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "KY_",
+							"lcSubClass": [{
+								"subClass": "KY",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "KY_",
+							"lcSubClass": [{
+								"subClass": "KY",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "KY_",
+							"lcSubClass": [{
+								"subClass": "KY",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+								"lcClass": "KY_",
+								"lcSubClass": [{
+									"subClass": "KY",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							},
+							{
+								"lcClass": "SUDOC_",
+								"lcSubClass": [{
+									"subClass": "A",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							}
+						]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-A",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-A",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 3,
+				"type": "gov",
+				"aisle": 3,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-A",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-A",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-A",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-A",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-A",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-A",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-A",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-A",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-A",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 4,
+				"type": "gov",
+				"aisle": 4,
+				"facing": "west",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-A",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-AA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-AC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-AC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-AE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-AE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-AE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-AE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 5,
+				"type": "gov",
+				"aisle": 4,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 6,
+				"type": "gov",
+				"aisle": 5,
+				"facing": "west",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 7,
+				"type": "gov",
+				"aisle": 5,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-C3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 8,
+				"type": "gov",
+				"aisle": 6,
+				"facing": "west",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 9,
+				"type": "gov",
+				"aisle": 6,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-C",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-CAB",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-CAB",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-CC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-CR",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-CR",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-CS",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-CSA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-D",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-D",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 10,
+				"type": "gov",
+				"aisle": 7,
+				"facing": "west",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-D",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-D",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-D",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-D",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-D",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 11,
+				"type": "gov",
+				"aisle": 7,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-D",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-D",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-D",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-D",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-D",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-D",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-E",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-E",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-E",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-E",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 12,
+				"type": "gov",
+				"aisle": 8,
+				"facing": "west",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-E",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-E",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-ED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-ED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-ED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-ED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-ED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-ED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-EP",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-EP",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 13,
+				"type": "gov",
+				"aisle": 8,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-EP",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-EP",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-EP",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-ER",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-F",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-FA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-FCA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-FCD",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},{
+								"subClass": "SUDOC-FCS",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-FAA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-FE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-FEM",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-FEM",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-FHL",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-FHM",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-FM",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-FMC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-FP",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},{
+								"subClass": "SUDOC-FR",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-FS",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-FS",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-FT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-FW",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-FTZ",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-GA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-GA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-GP",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-GP",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-GP",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-GP",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 14,
+				"type": "gov",
+				"aisle": 9,
+				"facing": "west",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-GP",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-GP",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-GS",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-GS",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-GS",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 15,
+				"type": "gov",
+				"aisle": 9,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 16,
+				"type": "gov",
+				"aisle": 10,
+				"facing": "west",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-HH",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 17,
+				"type": "gov",
+				"aisle": 10,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HH",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-HH",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-HS",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 18,
+				"type": "gov",
+				"aisle": 11,
+				"facing": "west",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 19,
+				"type": "gov",
+				"aisle": 11,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-I",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-I19",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-IA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-IC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-ID",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-ITC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-J",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-J",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-J",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-J",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-J",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 20,
+				"type": "gov",
+				"aisle": 12,
+				"facing": "west",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-J",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-JU",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-JU",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-L",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-L",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-L",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-L",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-L",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-L",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-L",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-LC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-LC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 21,
+				"type": "gov",
+				"aisle": 12,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-LC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-LC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-LC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-LC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-LC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-LC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-LC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-LC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-LR",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-M",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-MS",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-N",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-N",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-NA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-NAS",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 22,
+				"type": "gov",
+				"aisle": 13,
+				"facing": "west",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-NAS",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-NAS",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-NAS",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-NC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-NCU",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-NF",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-NF",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-NMB",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-NS",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-NS",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-OP",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-PA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-PE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-PE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-PM",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-PM",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-PR",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-PR",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-PrEx",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-PrEx",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 23,
+				"type": "gov",
+				"aisle": 13,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-PrEx",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-PrEx",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-PrEx",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-PrVP",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-RR",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-S",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-S",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-S",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-S",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-S",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-S",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-S",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-SBA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 24,
+				"type": "gov",
+				"aisle": 14,
+				"facing": "west",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-SBA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-SBA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-SE",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-SI",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-SI",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-SI",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-SI",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-SI",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-SSA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-SSA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-T",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-T22",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-T",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-T22",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-T",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-T22",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 25,
+				"type": "government",
+				"aisle": 14,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-T",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-T22",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-TC",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-TD",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-TD",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-TD",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-TD",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-TD",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-TD",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-TD",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 26,
+				"type": "government",
+				"aisle": 15,
+				"facing": "west",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-TD",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-VA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-VA",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-W",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-W",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-X",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-X",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y1",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y1",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y1",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y1",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 27,
+				"type": "government",
+				"aisle": 15,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y1",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y1",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y1",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y1",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y1",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y1",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 28,
+				"type": "government",
+				"aisle": 16,
+				"facing": "west",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y3",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y4",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y4",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y4",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y7",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y10",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "SUDOC_",
+							"lcSubClass": [{
+								"subClass": "SUDOC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Y10",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							},
+							{
+								"subClass": "SUDOC-Z",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 29,
+				"type": "media",
+				"aisle": 1,
+				"facing": "east",
+				"section": "central",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 30,
+				"type": "media",
+				"aisle": 1,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 31,
+				"type": "media",
+				"aisle": 2,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 32,
+				"type": "media",
+				"aisle": 2,
+				"facing": "west",
+				"section": "central",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "Media_",
+							"lcSubClass": [{
+								"subClass": "Media",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 33,
+				"type": "ref",
+				"aisle": 2,
+				"facing": "east",
+				"section": "central",
+				"range": 1,
+				"rangewrap": 3,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-A",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-B",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							},
+							{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-C",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							}
+						]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-C",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							},
+							{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-D",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							}
+						]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-D",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 34,
+				"type": "ref",
+				"aisle": 2,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 4,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-D",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							},
+							{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-E",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							}
+						]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-E",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							},
+							{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-F",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							},
+							{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-G",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							}
+						]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-G",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-G",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-G",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							},
+							{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-H",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							}
+						]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 35,
+				"type": "ref",
+				"aisle": 3,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-H",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-H",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-H",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-H",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-H",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 36,
+				"type": "ref",
+				"aisle": 3,
+				"facing": "west",
+				"section": "central",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-H",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-H",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-H",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-J",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 37,
+				"type": "ref",
+				"aisle": 3,
+				"facing": "east",
+				"section": "central",
+				"range": 1,
+				"rangewrap": 3,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-J",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-J",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-J",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-J",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 38,
+				"type": "ref",
+				"aisle": 3,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 4,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-J",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-J",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							},
+							{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-K",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							}
+						]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-K",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-K",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							},
+							{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-L",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							}
+						]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-L",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							},
+							{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-M",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							}
+						]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 39,
+				"type": "ref",
+				"aisle": 4,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-M",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-M",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-M",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-M",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-M",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							},
+							{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-N",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							}
+						]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 40,
+				"type": "ref",
+				"aisle": 4,
+				"facing": "west",
+				"section": "central",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-N",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-N",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-N",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							},
+							{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-P",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							}
+						]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 41,
+				"type": "ref",
+				"aisle": 4,
+				"facing": "east",
+				"section": "central",
+				"range": 1,
+				"rangewrap": 3,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 42,
+				"type": "ref",
+				"aisle": 4,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 4,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 43,
+				"type": "ref",
+				"aisle": 5,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 44,
+				"type": "ref",
+				"aisle": 5,
+				"facing": "west",
+				"section": "central",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 45,
+				"type": "ref",
+				"aisle": 5,
+				"facing": "east",
+				"section": "central",
+				"range": 1,
+				"rangewrap": 3,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-P",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 46,
+				"type": "ref",
+				"aisle": 5,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 4,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-Q",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-Q",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-Q",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-Q",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 47,
+				"type": "ref",
+				"aisle": 6,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-Q",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-Q",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-Q",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							},
+							{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-R",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							}
+						]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-R",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							},
+							{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-S",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							},
+							{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-T",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							}
+						]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 48,
+				"type": "ref",
+				"aisle": 6,
+				"facing": "west",
+				"section": "central",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-T",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-T",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							},
+							{
+								"lcClass": "Ref_",
+								"lcSubClass": [{
+									"subClass": "Ref-Z",
+									"number": [{
+										"start": 0,
+										"end": 0
+									}]
+								}]
+							}
+						]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-Z",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 49,
+				"type": "ref",
+				"aisle": 6,
+				"facing": "east",
+				"section": "central",
+				"range": 1,
+				"rangewrap": 3,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-Z",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-Z",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-Z",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 50,
+				"type": "ref",
+				"aisle": 6,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 4,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "Ref_",
+							"lcSubClass": [{
+								"subClass": "Ref-Z",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 51,
+				"type": "ref",
+				"aisle": 7,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 52,
+				"type": "ref",
+				"aisle": 7,
+				"facing": "west",
+				"section": "central",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 53,
+				"type": "removed",
+				"aisle": 7,
+				"facing": "east",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 3,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 10,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 54,
+				"type": "removed",
+				"aisle": 8,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 10,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 55,
+				"type": "removed",
+				"aisle": 8,
+				"facing": "east",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 10,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 56,
+				"type": "removed",
+				"aisle": 9,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 10,
+						"callNumber": [{
+							"lcClass": "REMOVED",
+							"lcSubClass": [{
+								"subClass": "REMOVED",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 57,
+				"type": "new",
+				"aisle": "",
+				"facing": "",
+				"section": "",
+				"range": "",
+				"rangewrap": "",
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "new_",
+							"lcSubClass": [{
+								"subClass": "new",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "_new",
+							"lcSubClass": [{
+								"subClass": "new",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "_new",
+							"lcSubClass": [{
+								"subClass": "new",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "_new",
+							"lcSubClass": [{
+								"subClass": "new",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 58,
+				"type": "faculty",
+				"aisle": "",
+				"facing": "",
+				"section": "",
+				"range": "",
+				"rangewrap": "",
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "_faculty",
+							"lcSubClass": [{
+								"subClass": "faculty",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "_faculty",
+							"lcSubClass": [{
+								"subClass": "faculty",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 59,
+				"type": "circulation",
+				"aisle": "",
+				"facing": "",
+				"section": "",
+				"range": "",
+				"rangewrap": "",
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 10,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 11,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 12,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 60,
+				"type": "circulation",
+				"aisle": "",
+				"facing": "",
+				"section": "",
+				"range": "",
+				"rangewrap": "",
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 10,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 11,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 12,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 61,
+				"type": "circulation",
+				"aisle": "",
+				"facing": "",
+				"section": "",
+				"range": "",
+				"rangewrap": "",
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 10,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 11,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 12,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 62,
+				"type": "circulation",
+				"aisle": "",
+				"facing": "",
+				"section": "",
+				"range": "",
+				"rangewrap": "",
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 9,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 10,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 63,
+				"type": "circulation",
+				"aisle": "",
+				"facing": "",
+				"section": "",
+				"range": "",
+				"rangewrap": "",
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 7,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 8,
+						"callNumber": [{
+							"lcClass": "_circulation",
+							"lcSubClass": [{
+								"subClass": "circulation",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		}
+	]
+}

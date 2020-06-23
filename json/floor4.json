@@ -1,0 +1,3756 @@
+{
+	"floor": 4,
+	"status": "final",
+	"createdBy": "M. Providenti",
+	"createdOn": "2018-06-18",
+	"lastEditBy": "M. Providenti",
+	"lastEditOn": "2018-07-25",
+	"collection": [{
+			"shelfRow": [{
+				"id": 1,
+				"type": "trc",
+				"aisle": 1,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-Ref_",
+							"lcSubClass": [{
+								"subClass": "TRC-Ref",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 1000,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 2,
+				"type": "trc",
+				"aisle": 1,
+				"facing": "west",
+				"section": "north",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 2450
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 3,
+				"type": "trc",
+				"aisle":2,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 2800,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 4,
+				"type": "trc",
+				"aisle": 2,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 2880
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 5,
+				"type": "trc",
+				"aisle": 2,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 3,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 2880,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 6,
+				"type": "trc",
+				"aisle": 2,
+				"facing": "west",
+				"section": "north",
+				"range": 2,
+				"rangewrap": 4,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 3640
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 7,
+				"type": "trc",
+				"aisle": 3,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 3800,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 8,
+				"type": "trc",
+				"aisle": 3,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 4000
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 9,
+				"type": "trc",
+				"aisle": 3,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 3,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 4020,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 10,
+				"type": "trc",
+				"aisle": 3,
+				"facing": "west",
+				"section": "north",
+				"range": 2,
+				"rangewrap": 4,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 4200
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 11,
+				"type": "trc",
+				"aisle": 4,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 4200,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 12,
+				"type": "trc",
+				"aisle": 4,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 4300
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 13,
+				"type": "trc",
+				"aisle": 4,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 3,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 4300,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 14,
+				"type": "trc",
+				"aisle": 4,
+				"facing": "west",
+				"section": "north",
+				"range": 2,
+				"rangewrap": 4,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 4400
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 15,
+				"type": "trc",
+				"aisle": 5,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 4400,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 16,
+				"type": "trc",
+				"aisle": 5,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 4400
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 17,
+				"type": "trc",
+				"aisle": 5,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 3,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 4410,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 18,
+				"type": "trc",
+				"aisle": 5,
+				"facing": "west",
+				"section": "north",
+				"range": 2,
+				"rangewrap": 4,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 4400
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 19,
+				"type": "trc",
+				"aisle": 6,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 20,
+				"type": "trc",
+				"aisle": 6,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 21,
+				"type": "trc",
+				"aisle": 6,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 3,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 4400,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 22,
+				"type": "trc",
+				"aisle": 6,
+				"facing": "west",
+				"section": "north",
+				"range": 2,
+				"rangewrap": 4,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 23,
+				"type": "trc",
+				"aisle": 7,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 4700
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 24,
+				"type": "trc",
+				"aisle": 7,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 4700
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 25,
+				"type": "trc",
+				"aisle": 7,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 3,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 5000,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 26,
+				"type": "trc",
+				"aisle": 7,
+				"facing": "west",
+				"section": "north",
+				"range": 2,
+				"rangewrap": 4,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 5120
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 27,
+				"type": "trc",
+				"aisle": 8,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 5130,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 28,
+				"type": "trc",
+				"aisle": 8,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 5800,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 29,
+				"type": "trc",
+				"aisle": 8,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 3,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 6000,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 30,
+				"type": "trc",
+				"aisle": 8,
+				"facing": "west",
+				"section": "north",
+				"range": 2,
+				"rangewrap": 4,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 6162
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 31,
+				"type": "trc",
+				"aisle": 9,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 6200,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 32,
+				"type": "trc",
+				"aisle": 9,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 7000
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 33,
+				"type": "trc",
+				"aisle": 9,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 3,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 7000,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 34,
+				"type": "trc",
+				"aisle": 9,
+				"facing": "west",
+				"section": "north",
+				"range": 2,
+				"rangewrap": 4,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 35,
+				"type": "trc",
+				"aisle": 10,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-L_",
+							"lcSubClass": [{
+								"subClass": "TRC-LT",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 36,
+				"type": "trc",
+				"aisle": 10,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 37,
+				"type": "trc",
+				"aisle": 10,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 3,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 38,
+				"type": "trc",
+				"aisle": 10,
+				"facing": "west",
+				"section": "north",
+				"range": 2,
+				"rangewrap": 4,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 39,
+				"type": "trc",
+				"aisle": 1,
+				"section": 1,
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 40,
+				"type": "trc",
+				"aisle": 11,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 41,
+				"type": "trc",
+				"aisle": 11,
+				"facing": "west",
+				"section": "south",
+				"range": 1,
+				"rangewrap": 3,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 42,
+				"type": "trc",
+				"aisle": 11,
+				"facing": "west",
+				"section": "north",
+				"range": 2,
+				"rangewrap": 4,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 43,
+				"type": "trc",
+				"aisle": 12,
+				"facing": "east",
+				"section": "north",
+				"range": 1,
+				"rangewrap": 1,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 44,
+				"type": "trc",
+				"aisle": 12,
+				"facing": "east",
+				"section": "south",
+				"range": 2,
+				"rangewrap": 2,
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "TRC-Y_",
+							"lcSubClass": [{
+								"subClass": "TRC-Y",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 45,
+				"type": "sorting",
+				"aisle": "",
+				"facing": "",
+				"section": "",
+				"range": "",
+				"rangewrap": "",
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 46,
+				"type": "sorting",
+				"aisle": "",
+				"facing": "",
+				"section": "",
+				"range": "",
+				"rangewrap": "",
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 47,
+				"type": "sorting",
+				"aisle": "",
+				"facing": "",
+				"section": "",
+				"range": "",
+				"rangewrap": "",
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"shelfRow": [{
+				"id": 48,
+				"type": "sorting",
+				"aisle": "",
+				"facing": "",
+				"section": "",
+				"range": "",
+				"rangewrap": "",
+				"shelfUnits": [{
+						"bin": 1,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 2,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 3,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 4,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 5,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					},
+					{
+						"bin": 6,
+						"callNumber": [{
+							"lcClass": "",
+							"lcSubClass": [{
+								"subClass": "",
+								"number": [{
+									"start": 0,
+									"end": 0
+								}]
+							}]
+						}]
+					}
+				]
+			}]
+		}
+	]
+}

@@ -1,0 +1,2178 @@
+<!DOCTYPE HTML>
+<html lang="en" >
+   <head>
+      <title>Level 1</title>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <link rel="stylesheet" type="text/css" href="css/plans.css">
+      <link rel="stylesheet" type="text/css" href="css/skip_link.css">
+      <script src="js/map_toggle.js"></script>
+      <script src="js/callnumbers.js"></script>
+   </head>
+   <body>
+      <header>
+         <div>
+            <a class="skip-main" href="#main">Skip to main content</a>
+         </div>
+         <div class="pagetitle title">
+            <h1>
+               <a id="second"></a>Level 1 (Version 2)
+            </h1>
+         </div>
+      </header>
+      <nav>
+         <!-- sitenav here -->
+      </nav>
+      <main>
+         <div>
+            <h2 class="skip-main" id="main" tabindex="-1">Main content</h2>
+         </div>
+         <div class="text ">
+            <div class="anchor-list" id="anchor-top">
+               <ul>
+                  <li class="checkbutton"><input id="label-check5" class="toggle" data-layer="department5" type="checkbox"> <label for="label-check5" id="button-department5">Rooms </label></li>
+                  <li class="checkbutton"><input id="label-check6" class="toggle" data-layer="department6" type="checkbox"> <label for="label-check6" id="button-department6">Department </label></li>
+                  <li class="checkbutton"><input id="label-check1" class="toggle" data-layer="department1" type="checkbox"> <label for="label-check1" id="button-department1">Computers </label></li>
+                  <li class="checkbutton"><input id="label-check8" class="toggle" data-layer="department8" type="checkbox"> <label for="label-check8" id="button-department8">Room </label></li>
+                  <li class="checkbutton"><input id="label-check9" class="toggle" data-layer="department9" type="checkbox"> <label for="label-check9" id="button-department9">Spaces </label></li>
+                  <li class="checkbutton"><input id="label-check2" class="toggle" data-layer="department2" type="checkbox"> <label for="label-check2" id="button-department2">Some Books </label></li>
+                  <li class="checkbutton"><input id="label-check12" class="toggle" data-layer="department12" type="checkbox"> <label for="label-check12" id="button-department12">Legend </label></li>
+               </ul>
+            </div>
+         </div>
+         <div class="text parbase section">
+            <div class="text ">
+               <div>
+                  <h3>Call Number Finder</h3>
+               </div>
+            </div>
+         </div>
+         <div style="border: 1px solid silver;padding: 1em; margin: 1em 0;">
+            <form name="f">
+               <label for="loc1"> First letter of LC </label>
+               <select id="loc1" data-floorplan="1">
+                  <option data-classification=' ' value="loc-1-lc"> LC Class </option>
+                  <option data-classification='Language and Literature ' value="P">P</option>
+                  <option data-classification='Science ' value="Q">Q</option>
+                  <option data-classification='Medicine ' value="R">R</option>
+                  <option data-classification='Agriculture ' value="S">S</option>
+                  <option data-classification='Technology ' value="T">T</option>
+                  <option data-classification='Military Science ' value="U">U</option>
+                  <option data-classification='Naval Science ' value="V">V</option>
+                  <option data-classification='Bibliography, Library Science ' value="Z">Z</option>
+               </select>
+               <label for="loc2"> Second letter of LC </label>	
+               <select id="loc2" data-floorplan="1">
+                  <option value=""> LC Subclass </option>
+               </select>
+            </form>
+            <div><span id="lc-classification1">  </span> <span id="lc-classification2"> </span></div>
+            <div><span id="lc-location"> </span> <span id="lc-location2"> </span></div>
+            <div><span id="lc-location3"> </span> <span id="lc-location4"> </span></div>
+         </div>
+         <div class="svg-container">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+               viewBox="0 0 821.9 924.8" style="enable-background:new 0 0 821.9 924.8;" xml:space="preserve" aria-labelledby="title desc" aria-describedby="desc" role="img" focusable="true" tabindex="0">
+               <!-- Level One -->
+               <!-- Last edit, M. Providenti, February 2018 -->
+               <title id="title">Level One</title>
+               <desc id="desc">Level one contains departments, rooms, areas, and books.</desc>
+               <g id="departments">
+                  <!-- begin toggle section -->
+                  <!-- stacks -->
+                  <g class="department4">
+                     <polygon id="deptstacks" points="701.5,837.9 485.5,837.9 485,729.9 474,729.9 474,496.9 599.5,496.9 
+                        599.5,477.6 699.3,477.6 698.9,551.4 790.5,551.4 790.5,656.4 700.3,656.4 "/>
+                  </g>
+                  <!-- some books -->
+                  <g class="department2">
+                     <polygon id="deptsloversize" points="791.5,837.9 711,837.9 711,787.9 792,787.9"/>
+                  </g>
+                  <!-- study areas -->
+                  <g class="department9">
+                     <polygon id="deptcarrelssouth2" points="811.1,909.9 745,909.9 745,888.9 800.4,888.9 800.4,772.9 737,772.8 737,761.9 811.1,761.9 "/>
+                     <polygon id="deptcarrelssouth1" points="809.5,681.4 728,681.4 728,671.4 801,670.9 799.5,539.4 727,540.4 727,526.4 809.5,526.4 "/>
+                     <rect id="deptcarrelsnorth" x="453.5" y="484.2" width="11.5" height="178.7"/>
+                  </g>
+                  <!-- room -->
+                  <g class="department8">
+                     <path id="dept102" d="M515.6,32.2l-43.9,43.9c0,0.2,0,0.3,0,0.5l-9,9l12.6,12.6c6.8,25.2,22.3,50.1,45.8,69.8 c27.1,22.8,59.4,34,88.9,33.4l37.4-37.4L515.6,32.2z"/>
+                  </g>
+                  <!-- computers -->
+                  <g class="department1">
+                     <polygon id="deptpclab" points="413.3,817.4 473.7,817.4 472.5,888.4 722,887.9 722,909.9 413.3,909.9 "/>
+                  </g>
+                  <!-- rooms -->
+                  <g class="department5">
+                     <rect id="dept133" x="451" y="415.9" width="45.5" height="63.5"/>
+                     <rect id="dept131" x="451" y="364.9" width="91" height="51"/>
+                     <rect id="dept130" x="451" y="325.9" width="91" height="39"/>
+                  </g>
+                  <!-- department -->
+                  <g class="department6">
+                     <rect id="dept106b" x="480.6" y="283.9" width="46.4" height="38.8"/>
+                     <polygon id="dept106a" points="527,321.7 544.5,321.7 544.5,324.9 575,324.4 575,283.3 527,283.3 "/>
+                     <polygon id="dept106" points="475.5,167.9 575.3,239.7 575,283.9 479.5,283.9 479.3,321.9 452,321.9 452,320.9 387.1,320.9 387.1,168.9 "/>
+                     <rect id="dept105" x="606.2" y="277.9" width="76.8" height="46"/>
+                     <rect id="dept104" x="606" y="230.9" width="77" height="47"/>
+                     <polygon id="dept103a" points="674.7,193.6 683.8,203.2 683.8,229.9 637.8,229.9  "/>
+                     <polygon id="dept103" points="674.7,193.6 645.3,164.9 606,203.5 606,230.9 637.8,230.9 "/>
+                  </g>
+                  <g class="department12">
+                     <g id="textlegend">
+                        <!-- ******* ADD NEW ID TO CSS********* "textlegend" -->
+                        <rect x="496.2" y="70.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 92.3911 395.7753)" width="55.5" height="31.6"/>
+                        <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 499.2357 100.8249)">
+                           <tspan x="0" y="0" >Sample </tspan>
+                           <tspan x="0" y="14.4">Room</tspan>
+                        </text>
+                        <rect x="646.8" y="328.8" width="21.8" height="10.5"/>
+                        <text transform="matrix(1 0 0 1 646.75 335.948)" >DVD </text>
+                        <rect x="668.2" y="387.6" width="19.5" height="10.5"/>
+                        <text transform="matrix(1 0 0 1 668.2084 394.7269)" >PCs</text>
+                        <rect x="396.2" y="351.9" width="45.8" height="41"/>
+                        <text transform="matrix(1 0 0 1 396.1864 360.395)">
+                           <tspan x="0" y="0" >Group </tspan>
+                           <tspan x="0" y="14.4" >Study </tspan>
+                           <tspan x="0" y="28.8">Rooms</tspan>
+                        </text>
+                        <rect x="672.5" y="875.8" width="93.5" height="11.1"/>
+                        <text transform="matrix(1 0 0 1 672.55 882.9082)" >Microform Readers</text>
+                        <rect x="719.2" y="839.1" width="70.5" height="11.5"/>
+                        <text transform="matrix(1 0 0 1 719.2499 846.2246)" >Some Books</text>
+                        <g id="legendborder">
+                           <!-- ******* ADD NEW ID TO CSS********* "legendborder" -->
+                           <rect x="113" y="410.6" width="145" height="167.3"/>
+                        </g>
+                        <rect x="129" y="419.9" width="48" height="15.1"/>
+                        <text transform="matrix(1 0 0 1 129 429.8149)" >Legend:</text>
+                        <g id="iconvmlegend">
+                           <!-- ******* ADD NEW ID TO CSS********* "iconvmlegend" -->
+                           <circle cx="133" cy="457.9" r="4.5"/>
+                           <path d="M132.7,460.9l-1.7-5h1l1.2,3.7l1.2-3.7h1l-1.7,5H132.7z"/>
+                        </g>
+                        <g id="iconmacslegend">
+                           <!-- ******* ADD NEW ID TO CSS********* "iconmacslegend" -->
+                           <circle cx="133" cy="473.9" r="4.5"/>
+                           <path d="M135.3,475.9h-1l-0.4-1H132l-0.4,1h-1l1.8-5h1L135.3,475.9z M133.5,473.9l-0.6-1.8l-0.6,1.8H133.5z"/>
+                        </g>
+                        <g id="iconmicroformslegend">
+                           <!-- ******* ADD NEW ID TO CSS********* "iconmicroformslegend " -->
+                           <circle cx="133" cy="490.9" r="4.5"/>
+                           <path d="M131,493.9v-5h1.6l0.9,3.3l0.8-3.3h1.7v5h-1v-4l-1.1,4H133l-1-4v4H131z"/>
+                        </g>
+                        <g id="iconprinterslegend">
+                           <!-- ******* ADD NEW ID TO CSS********* "iconprinterslegend" -->
+                           <circle cx="133" cy="507.9" r="4.5"/>
+                           <path d="M132,510.9v-5h1.5c0.6,0,0.9,0,1.1,0.1c0.3,0.1,0.5,0.2,0.7,0.5c0.2,0.2,0.3,0.6,0.3,0.9
+                              c0,0.3-0.1,0.5-0.2,0.7c-0.1,0.2-0.2,0.4-0.4,0.5c-0.2,0.1-0.3,0.2-0.5,0.2c-0.2,0-0.5,0.1-1,0.1H133v2H132z M133,506.9v1h0.3
+                              c0.4-0.2,0.6-0.2,0.8-0.3s0.2-0.1,0.3-0.2c0.1-0.1,0.1-0.2,0.1-0.4c0-0.2-0.1-0.3-0.2-0.4c-0.1-0.1-0.2-0.2-0.4-0.2
+                              c-0.1,0-0.3,0-0.7,0.6H133z"/>
+                        </g>
+                        <g id="icondvdlegend">
+                           <!-- ******* ADD NEW ID TO CSS********* "icondvdlegend" -->
+                           <circle cx="133" cy="524.9" r="4.5"/>
+                           <path d="M131,522.9h1.7c0.4,0,0.7,0,0.9,0.1c0.3,0.1,0.5,0.2,0.7,0.5c0.2,0.2,0.3,0.5,0.5,0.8
+                              c0.1,0.3,0.2,0.7,0.2,1.2c0,0.4,0,0.8-0.1,1.1c-0.1,0.4-0.3,0.7-0.5,0.9c-0.2,0.2-0.4,0.3-0.7,0.4c-0.2,0.1-0.5,0.1-0.8,0.1H131
+                              V522.9z M132,523.9v3h0.6c0.2,0,0.4,0,0.5,0c0.1,0,0.3-0.1,0.3-0.2c0.1-0.1,0.2-0.2,0.2-0.4c0.1-0.2,0.1-0.5,0.1-0.8
+                              s0-0.6-0.1-0.8c-0.1-0.2-0.1-0.3-0.2-0.4c-0.1-0.1-0.2-0.2-0.4-0.2c-0.1,0-0.4,0-0.7,0H132z"/>
+                        </g>
+                        <g id="icongroupstudylegend">
+                           <!-- ******* ADD NEW ID TO CSS********* "icongroupstudylegend" -->
+                           <circle cx="129.5" cy="545.4" r="8"/>
+                           <path d="M129.8,546.4l1.2-0.1c0.1,0.4,0.2,0.8,0.5,1s0.5,0.3,0.9,0.3c0.4,0,0.7-0.1,0.9-0.3c0.2-0.2,0.3-0.4,0.3-0.6
+                              c0-0.2,0-0.3-0.1-0.4s-0.2-0.2-0.5-0.3c-0.1-0.1-0.5-0.2-1-0.3c-0.7-0.2-1.2-0.4-1.4-0.7c-0.4-0.4-0.6-0.8-0.6-1.3
+                              c0-0.3,0.1-0.7,0.3-0.9c0.2-0.3,0.4-0.5,0.8-0.7c0.3-0.2,0.8-0.2,1.2-0.2c0.8,0,1.4,0.2,1.8,0.5s0.6,0.9,0.6,1.5l-1.3,0.1
+                              c-0.1-0.3-0.2-0.6-0.3-0.7s-0.4-0.2-0.8-0.2c-0.4,0-0.7,0.1-0.9,0.2c-0.1,0.1-0.2,0.2-0.2,0.4c0,0.2,0.1,0.3,0.2,0.4
+                              c0.2,0.1,0.5,0.3,1.2,0.4c0.6,0.2,1.1,0.3,1.4,0.5c0.3,0.2,0.5,0.4,0.7,0.7s0.3,0.6,0.3,1.1c0,0.4-0.1,0.7-0.3,1.1
+                              s-0.5,0.6-0.8,0.7c-0.4,0.2-0.8,0.2-1.4,0.2c-0.8,0-1.4-0.2-1.8-0.6S129.9,547.1,129.8,546.4z"/>
+                           <path d="M126,545.9v-1h3v2.8c-0.3,0.3-0.7,0.5-1.2,0.7c-0.5,0.2-1,0.3-1.5,0.3c-0.7,0-1.2-0.1-1.7-0.4
+                              s-0.9-0.7-1.1-1.2c-0.2-0.5-0.4-1.1-0.4-1.8c0-0.7,0.1-1.3,0.4-1.8s0.7-0.9,1.2-1.2c0.4-0.2,0.9-0.3,1.5-0.3
+                              c0.8,0,1.4,0.2,1.8,0.5c0.4,0.3,0.7,0.8,0.8,1.4l-1.3,0.2c-0.1-0.3-0.3-0.6-0.5-0.8c-0.2-0.2-0.5-0.3-0.9-0.3
+                              c-0.6,0-1,0.2-1.3,0.6s-0.5,0.9-0.5,1.7c0,0.8,0.2,1.4,0.5,1.8c0.3,0.4,0.8,0.6,1.3,0.6c0.3,0,0.5-0.1,0.8-0.2
+                              c0.3-0.1,0-0.4,0-0.4v-1.1H126z"/>
+                        </g>
+                        <g id="carrelslegend">
+                           <!-- ******* ADD NEW ID TO CSS********* "carrelslegend" -->
+                           <rect x="130.5" y="560.4" width="4" height="8"/>
+                           <rect x="136.5" y="563.4" width="2" height="2"/>
+                        </g>
+                        <rect x="144.5" y="453.9" width="100.5" height="8"/>
+                        <text transform="matrix(1 0 0 1 144.5 460.2646)" >Computers</text>
+                        <rect x="144.5" y="469.9" width="56" height="8.5"/>
+                        <text transform="matrix(1 0 0 1 144.5 476.2646)" >Computers</text>
+                        <rect x="144.2" y="487.5" width="78.8" height="9"/>
+                        <text transform="matrix(1 0 0 1 144.2396 493.8989)" >Microform Reader</text>
+                        <rect x="144.2" y="504.6" width="39" height="8.8"/>
+                        <text transform="matrix(1 0 0 1 144.2396 511.0146)" >Printer</text>
+                        <rect x="145.1" y="521.2" width="62.4" height="10.4"/>
+                        <text transform="matrix(1 0 0 1 145.1109 527.5789)" >DVD Player</text>
+                        <rect x="144.5" y="540.6" width="94.5" height="11.5"/>
+                        <text transform="matrix(1 0 0 1 144.5 547.0146)" >Group Study Room</text>
+                        <rect x="144.6" y="561.4" width="80" height="27.5"/>
+                        <text transform="matrix(1 0 0 1 144.6198 567.7646)" >Study Carrel</text>
+                     </g>
+                  </g>
+                  <!-- end toggle section -->
+                  <g id="openspaces">
+                     <polygon id="opencorner" points="709.8,228.2 683.8,228.2 683.8,202.4 "/>
+                  </g>
+                  <g id="columns">
+                     <rect x="575.4" y="223.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 9.4024 475.3069)" width="6.1" height="6.1"/>
+                     <rect x="75.1" y="208.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -126.7815 117.2609)" width="6.1" height="6.1"/>
+                     <rect x="25.2" y="158.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -106.1122 67.3609)" width="6.1" height="6.1"/>
+                     <rect x="123.2" y="160.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -78.6982 137.1777)" width="6.1" height="6.1"/>
+                     <rect x="188.6" y="226" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -105.7878 202.5777)" width="6.1" height="6.1"/>
+                     <rect x="188.5" y="95.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -13.4529 164.2032)" width="6.1" height="6.1"/>
+                     <rect x="447.9" y="95.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 62.2408 347.7438)" width="6.1" height="6.1"/>
+                     <rect x="318.6" y="96" transform="matrix(0.7071 -0.7071 0.7071 0.7071 24.1663 256.4064)" width="6.1" height="6.1"/>
+                     <rect x="383.1" y="160.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -2.5505 320.9064)" width="6.1" height="6.1"/>
+                     <rect x="447.3" y="224.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -29.143 385.1064)" width="6.1" height="6.1"/>
+                     <rect x="383.7" y="288.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -92.7517 358.7588)" width="6.1" height="6.1"/>
+                     <rect x="319.5" y="224.1" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -66.1592 294.5588)" width="6.1" height="6.1"/>
+                     <rect x="253" y="290.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -132.6436 267.0201)" width="6.1" height="6.1"/>
+                     <rect x="255" y="159.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -39.4424 230.0588)" width="6.1" height="6.1"/>
+                     <rect x="512.4" y="31.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 126.7947 374.483)" width="6.1" height="6.1"/>
+                     <rect x="512.1" y="159.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 35.6483 411.9438)" width="6.1" height="6.1"/>
+                     <rect x="665.4" y="312.8" transform="matrix(-1 -4.487345e-10 4.487345e-10 -1 1336.8864 631.5636)" width="6.1" height="6.1"/>
+                     <rect x="720.2" y="864" width="6.1" height="6.1"/>
+                     <rect x="811.8" y="864" width="6.1" height="6.1"/>
+                     <rect x="538.5" y="411.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 126.675 956.375)" width="6.1" height="6.1"/>
+                     <rect x="538.5" y="500.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 37.675 1045.375)" width="6.1" height="6.1"/>
+                     <rect x="629.9" y="411.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 218.0751 1047.7751)" width="6.1" height="6.1"/>
+                     <rect x="629.9" y="500.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 129.075 1136.775)" width="6.1" height="6.1"/>
+                     <rect x="538.5" y="592.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 -54.325 1137.375)" width="6.1" height="6.1"/>
+                     <rect x="629.9" y="592.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 37.075 1228.775)" width="6.1" height="6.1"/>
+                     <rect x="538.5" y="684.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 -146.325 1229.375)" width="6.1" height="6.1"/>
+                     <rect x="629.9" y="684.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 -54.925 1320.775)" width="6.1" height="6.1"/>
+                     <rect x="538.5" y="773.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 -235.325 1318.375)" width="6.1" height="6.1"/>
+                     <rect x="629.9" y="773.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 -143.925 1409.775)" width="6.1" height="6.1"/>
+                     <rect x="538.5" y="864" transform="matrix(4.509910e-11 -1 1 4.509910e-11 -325.525 1408.575)" width="6.1" height="6.1"/>
+                     <rect x="629.9" y="864" transform="matrix(4.509910e-11 -1 1 4.509910e-11 -234.125 1499.975)" width="6.1" height="6.1"/>
+                     <rect x="538.5" y="320.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 217.675 865.375)" width="6.1" height="6.1"/>
+                     <rect x="538.5" y="312.6" transform="matrix(4.509910e-11 -1 1 4.509910e-11 225.875 857.175)" width="6.1" height="6.1"/>
+                     <rect x="629.9" y="320.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 309.0751 956.7751)" width="6.1" height="6.1"/>
+                     <rect x="444.9" y="321.9" transform="matrix(4.509910e-11 -1 1 4.509910e-11 123.025 772.875)" width="6.1" height="6.1"/>
+                     <rect x="444.9" y="313.7" transform="matrix(4.509910e-11 -1 1 4.509910e-11 131.225 764.675)" width="6.1" height="6.1"/>
+                     <rect x="355.9" y="321.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 34.0896 683.7396)" width="6.1" height="6.1"/>
+                     <rect x="355.9" y="313.6" transform="matrix(4.509910e-11 -1 1 4.509910e-11 42.2896 675.5396)" width="6.1" height="6.1"/>
+                     <rect x="264.1" y="321.8" transform="matrix(4.524920e-11 -1 1 4.524920e-11 -57.7104 591.9396)" width="6.1" height="6.1"/>
+                     <rect x="264.1" y="313.6" transform="matrix(4.509910e-11 -1 1 4.509910e-11 -49.5104 583.7396)" width="6.1" height="6.1"/>
+                     <rect x="172.7" y="321.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 -149.1104 500.5396)" width="6.1" height="6.1"/>
+                     <rect x="172.7" y="313.6" transform="matrix(4.509910e-11 -1 1 4.509910e-11 -140.9104 492.3396)" width="6.1" height="6.1"/>
+                     <rect x="720.9" y="592.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 128.075 1319.775)" width="6.1" height="6.1"/>
+                     <rect x="811.9" y="592.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 219.075 1410.775)" width="6.1" height="6.1"/>
+                     <rect x="719.3" y="773.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 -54.525 1499.175)" width="6.1" height="6.1"/>
+                     <rect x="811.9" y="773.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 38.075 1591.775)" width="6.1" height="6.1"/>
+                     <rect x="265.7" y="865.2" transform="matrix(4.509910e-11 -1 1 4.509910e-11 -599.525 1136.975)" width="6.1" height="6.1"/>
+                     <rect x="357.1" y="865.2" transform="matrix(4.509910e-11 -1 1 4.509910e-11 -508.125 1228.375)" width="6.1" height="6.1"/>
+                     <rect x="265.7" y="774.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 -509.125 1046.575)" width="6.1" height="6.1"/>
+                     <rect x="357.1" y="774.8" transform="matrix(4.509910e-11 -1 1 4.509910e-11 -417.725 1137.975)" width="6.1" height="6.1"/>
+                     <rect x="446.9" y="864" transform="matrix(4.509910e-11 -1 1 4.509910e-11 -417.125 1316.975)" width="6.1" height="6.1"/>
+                  </g>
+                  <g id="innerwalls">
+                     <g id="innerwallsgroup">
+                        <line x1="542" y1="325.9" x2="542" y2="347.9"/>
+                        <line x1="542" y1="359.9" x2="542" y2="386.9"/>
+                        <line x1="542" y1="398.9" x2="542" y2="417.9"/>
+                        <path d="M542,417.9v62c-1.4,0-2.6,0-4,0"/>
+                        <line x1="452" y1="479.9" x2="480" y2="479.9"/>
+                        <path d="M492,479.9c12,0,35,0,35,0"/>
+                        <line x1="452" y1="415.9" x2="542" y2="415.9"/>
+                        <line x1="452" y1="364.9" x2="542" y2="364.9"/>
+                        <line x1="496" y1="414.9" x2="496" y2="479.9"/>
+                     </g>
+                     <g id="innerwallsprintshop">
+                        <line x1="145" y1="259.5" x2="168.3" y2="282.9"/>
+                        <line x1="151.8" y1="266.4" x2="189.1" y2="229.4"/>
+                        <line x1="175.5" y1="297.2" x2="215.1" y2="257.1"/>
+                        <line x1="176.3" y1="290.4" x2="178.6" y2="292.7"/>
+                        <line x1="162.3" y1="310.7" x2="168.3" y2="304.8"/>
+                     </g>
+                     <g id="innerwallselevator">
+                        <path d="M569,455.6c0,0,16.3,16.4,18.7,18.7c2.6-2.5,18.5-18.5,18.5-18.5"/>
+                     </g>
+                     <g id="innerwalls110">
+                        <line x1="795" y1="758.9" x2="798" y2="758.9"/>
+                        <line x1="809" y1="758.9" x2="813.2" y2="759"/>
+                     </g>
+                     <g id="innerwallsarchives">
+                        <line x1="386" y1="167.9" x2="386" y2="100.9"/>
+                        <line x1="422" y1="66.6" x2="392.2" y2="96.5"/>
+                        <line x1="445" y1="66.9" x2="477.8" y2="66.9"/>
+                        <line x1="606" y1="277.9" x2="683" y2="277.9"/>
+                        <line x1="606" y1="230.9" x2="683" y2="230.9"/>
+                        <line x1="606" y1="214.9" x2="606" y2="201.9"/>
+                        <line x1="645.3" y1="164.9" x2="605.5" y2="203.3"/>
+                        <line x1="662.8" y1="204.5" x2="636.4" y2="231.1"/>
+                        <line x1="670.6" y1="197.5" x2="674.7" y2="193.6"/>
+                        <path d="M476.5,101.4c23,57.8,55.8,85.9,115.2,98.3"/>
+                        <line x1="469.5" y1="93" x2="463.5" y2="87.1"/>
+                        <line x1="607" y1="201.9" x2="602" y2="201.9"/>
+                        <line x1="483.2" y1="116.8" x2="483.2" y2="116.8"/>
+                        <line x1="575" y1="336" x2="575" y2="277.9"/>
+                        <line x1="606" y1="293.9" x2="606" y2="336"/>
+                        <line x1="606" y1="273.9" x2="606" y2="281.9"/>
+                        <line x1="606" y1="226.7" x2="606" y2="261.6"/>
+                        <line x1="543" y1="283.9" x2="575" y2="283.9"/>
+                        <path d="M575.3,265.7c0,0,0-21.6,0-26c-0.3-0.2-0.5-0.4-0.5-0.4s-92.3-66.4-99.3-71.4c-10.1,0-89.5,0-89.5,0"/>
+                        <line x1="386" y1="167.9" x2="386" y2="227.9"/>
+                        <line x1="386" y1="249.9" x2="386" y2="320.9"/>
+                        <line x1="511" y1="283.9" x2="480" y2="283.9"/>
+                        <line x1="527" y1="283.9" x2="527" y2="321.9"/>
+                        <line x1="523" y1="283.9" x2="531" y2="283.9"/>
+                        <line x1="480" y1="321.9" x2="480" y2="282.9"/>
+                        <line x1="683.8" y1="228.2" x2="683.8" y2="202.4"/>
+                        <line x1="539" y1="324.9" x2="578" y2="324.9"/>
+                        <line x1="602" y1="324.9" x2="629" y2="324.9"/>
+                     </g>
+                     <g id="innerwallsclosed">
+                        <line x1="409" y1="820.9" x2="409" y2="912.9"/>
+                        <line x1="409" y1="798.9" x2="409" y2="793.9"/>
+                     </g>
+                     <g id="innerwallsrr">
+                        <line x1="723" y1="435" x2="723" y2="466.9"/>
+                        <line x1="723" y1="477.9" x2="723" y2="505.9"/>
+                        <line x1="723" y1="517.9" x2="723" y2="522.9"/>
+                        <line x1="723" y1="423.9" x2="723" y2="414.9"/>
+                        <line x1="723" y1="448.9" x2="745" y2="448.9"/>
+                        <line x1="745" y1="438.9" x2="745" y2="462.9"/>
+                        <line x1="813" y1="461.9" x2="745" y2="461.9"/>
+                        <line x1="813" y1="480.9" x2="753" y2="480.9"/>
+                        <line x1="753" y1="461.9" x2="753" y2="467.9"/>
+                        <path d="M723,493.9h30c0-2.9,0-15,0-15"/>
+                     </g>
+                  </g>
+                  <g id="stacks">
+                     <g id="shelves94" data-use="closed10">
+                        <rect class="shelf6" x="291.5" y="821.4" width="4" height="12"/>
+                        <rect class="shelf5" x="291.5" y="833.4" width="4" height="12"/>
+                        <rect class="shelf4" x="291.5" y="845.4" width="4" height="12"/>
+                        <rect class="shelf3" x="287.5" y="845.4" width="4" height="12"/>
+                        <rect class="shelf2" x="287.5" y="833.4" width="4" height="12"/>
+                        <rect class="shelf1" x="287.5" y="821.4" width="4" height="12"/>
+                     </g>
+                     <g id="shelves93" data-use="closed9">
+                        <rect class="shelf10" x="311.5" y="821.4" width="4" height="12"/>
+                        <rect class="shelf9" x="311.5" y="833.4" width="4" height="12"/>
+                        <rect class="shelf8" x="311.5" y="845.4" width="4" height="12"/>
+                        <rect class="shelf7" x="311.5" y="857.4" width="4" height="12"/>
+                        <rect class="shelf6" x="311.5" y="869.4" width="4" height="12"/>
+                        <rect class="shelf5" x="307.5" y="869.4" width="4" height="12"/>
+                        <rect class="shelf4" x="307.5" y="857.4" width="4" height="12"/>
+                        <rect class="shelf3" x="307.5" y="845.4" width="4" height="12"/>
+                        <rect class="shelf2" x="307.5" y="833.4" width="4" height="12"/>
+                        <rect class="shelf1" x="307.5" y="821.4" width="4" height="12"/>
+                     </g>
+                     <g id="shelves92" data-use="closed8">
+                        <rect class="shelf10" x="330.5" y="821.4" width="4" height="12"/>
+                        <rect class="shelf9" x="330.5" y="833.4" width="4" height="12"/>
+                        <rect class="shelf8" x="330.5" y="845.4" width="4" height="12"/>
+                        <rect class="shelf7" x="330.5" y="857.4" width="4" height="12"/>
+                        <rect class="shelf6" x="330.5" y="869.4" width="4" height="12"/>
+                        <rect class="shelf5" x="326.5" y="869.4" width="4" height="12"/>
+                        <rect class="shelf4" x="326.5" y="857.4" width="4" height="12"/>
+                        <rect class="shelf3" x="326.5" y="845.4" width="4" height="12"/>
+                        <rect class="shelf2" x="326.5" y="833.4" width="4" height="12"/>
+                        <rect class="shelf1" x="326.5" y="821.4" width="4" height="12"/>
+                     </g>
+                     <g id="shelves91" data-use="closed7">
+                        <rect class="shelf4" x="349.5" y="872.4" width="4" height="12"/>
+                        <rect class="shelf3" x="349.5" y="860.4" width="4" height="12"/>
+                        <rect class="shelf2" x="349.5" y="848.4" width="4" height="12"/>
+                        <rect class="shelf1" x="349.5" y="836.4" width="4" height="12"/>
+                     </g>
+                     <g id="shelves90" data-use="closed6">
+                        <rect class="shelf2" x="358.5" y="892.4" width="4" height="12"/>
+                        <rect class="shelf1" x="358.5" y="880.4" width="4" height="12"/>
+                     </g>
+                     <g id="shelves89" data-use="closed5">
+                        <rect class="shelf4" x="358.5" y="905.4" width="12" height="4"/>
+                        <rect class="shelf3" x="370.5" y="905.4" width="12" height="4"/>
+                        <rect class="shelf2" x="382.5" y="905.4" width="12" height="4"/>
+                        <rect class="shelf1" x="394.5" y="905.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves88" data-use="closed4">
+                        <rect class="shelf6" x="394.5" y="890.4" width="12" height="4"/>
+                        <rect class="shelf5" x="382.5" y="890.4" width="12" height="4"/>
+                        <rect class="shelf4" x="370.5" y="890.4" width="12" height="4"/>
+                        <rect class="shelf3" x="370.5" y="886.4" width="12" height="4"/>
+                        <rect class="shelf2" x="382.5" y="886.4" width="12" height="4"/>
+                        <rect class="shelf1" x="394.5" y="886.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves87" data-use="closed3">
+                        <rect class="shelf6" x="394.5" y="868.4" width="12" height="4"/>
+                        <rect class="shelf5" x="382.5" y="868.4" width="12" height="4"/>
+                        <rect class="shelf4" x="370.5" y="868.4" width="12" height="4"/>
+                        <rect class="shelf3" x="370.5" y="864.4" width="12" height="4"/>
+                        <rect class="shelf2" x="382.5" y="864.4" width="12" height="4"/>
+                        <rect class="shelf1" x="394.5" y="864.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves86" data-use="closed2">
+                        <rect class="shelf6" x="394.5" y="844.4" width="12" height="4"/>
+                        <rect class="shelf5" x="382.5" y="844.4" width="12" height="4"/>
+                        <rect class="shelf4" x="370.5" y="844.4" width="12" height="4"/>
+                        <rect class="shelf3" x="370.5" y="840.4" width="12" height="4"/>
+                        <rect class="shelf2" x="382.5" y="840.4" width="12" height="4"/>
+                        <rect class="shelf1" x="394.5" y="840.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves85" data-use="closed1">
+                        <rect class="shelf2" x="382.5" y="823.4" width="12" height="4"/>
+                        <rect class="shelf1" x="394.5" y="823.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves84">
+                        <rect class="shelf6" x="777.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf5" x="765.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf4" x="753.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf3" x="741.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf2" x="729.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf1" x="717.5" y="831.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves83">
+                        <rect class="shelf8" x="686.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf7" x="674.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf6" x="662.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf5" x="650.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf4" x="638.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf3" x="626.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf2" x="614.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf1" x="602.5" y="831.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves82">
+                        <rect class="shelf7" x="559.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf6" x="547.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf5" x="535.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf3" x="511.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf2" x="499.5" y="831.4" width="12" height="4"/>
+                        <rect class="shelf1" x="487.5" y="831.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves81">
+                        <rect class="shelf7" x="487.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf6" x="499.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf5" x="511.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf3" x="535.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf2" x="547.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf1" x="559.5" y="827.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves80">
+                        <rect class="shelf8" x="602.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf7" x="614.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf6" x="626.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf5" x="638.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf4" x="650.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf3" x="662.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf2" x="674.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf1" x="686.5" y="827.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves79">
+                        <rect class="shelf6" x="717.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf5" x="729.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf4" x="741.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf3" x="753.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf2" x="765.5" y="827.4" width="12" height="4"/>
+                        <rect class="shelf1" x="777.5" y="827.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves78">
+                        <rect class="shelf6" x="777.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf5" x="765.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf4" x="753.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf3" x="741.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf2" x="729.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf1" x="717.5" y="813.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves77">
+                        <rect class="shelf8" x="686.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf7" x="674.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf6" x="662.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf5" x="650.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf4" x="638.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf3" x="626.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf2" x="614.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf1" x="602.5" y="813.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves76">
+                        <rect class="shelf7" x="559.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf6" x="547.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf5" x="535.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf3" x="511.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf2" x="499.5" y="813.4" width="12" height="4"/>
+                        <rect class="shelf1" x="487.5" y="813.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves75">
+                        <rect class="shelf7" x="487.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf6" x="499.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf5" x="511.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf3" x="535.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf2" x="547.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf1" x="559.5" y="809.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves74">
+                        <rect class="shelf8" x="602.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf7" x="614.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf6" x="626.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf5" x="638.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf4" x="650.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf3" x="662.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf2" x="674.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf1" x="686.5" y="809.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves73">
+                        <rect class="shelf6" x="717.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf5" x="729.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf4" x="741.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf3" x="753.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf2" x="765.5" y="809.4" width="12" height="4"/>
+                        <rect class="shelf1" x="777.5" y="809.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves72">
+                        <rect class="shelf6" x="777.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf5" x="765.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf4" x="753.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf3" x="741.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf2" x="729.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf1" x="717.5" y="795.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves71">
+                        <rect class="shelf8" x="686.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf7" x="674.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf6" x="662.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf5" x="650.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf4" x="638.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf3" x="626.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf2" x="614.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf1" x="602.5" y="795.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves70">
+                        <rect class="shelf7" x="559.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf6" x="547.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf5" x="535.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf3" x="511.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf2" x="499.5" y="795.4" width="12" height="4"/>
+                        <rect class="shelf1" x="487.5" y="795.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves69">
+                        <rect class="shelf7" x="487.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf6" x="499.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf5" x="511.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf3" x="535.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf2" x="547.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf1" x="559.5" y="791.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves68">
+                        <rect class="shelf8" x="602.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf7" x="614.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf6" x="626.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf5" x="638.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf4" x="650.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf3" x="662.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf2" x="674.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf1" x="686.5" y="791.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves67">
+                        <rect class="shelf6" x="717.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf5" x="729.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf4" x="741.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf3" x="753.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf2" x="765.5" y="791.4" width="12" height="4"/>
+                        <rect class="shelf1" x="777.5" y="791.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves66">
+                        <rect class="shelf7" x="686.5" y="777.4" width="12" height="4"/>
+                        <rect class="shelf6" x="674.5" y="777.4" width="12" height="4"/>
+                        <rect class="shelf5" x="662.5" y="777.4" width="12" height="4"/>
+                        <rect class="shelf4" x="650.5" y="777.4" width="12" height="4"/>
+                        <rect class="shelf3" x="638.5" y="777.4" width="12" height="4"/>
+                        <rect class="shelf2" x="614.5" y="777.4" width="12" height="4"/>
+                        <rect class="shelf1" x="602.5" y="777.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves65">
+                        <rect class="shelf6" x="559.5" y="777.4" width="12" height="4"/>
+                        <rect class="shelf5" x="547.5" y="777.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="777.4" width="12" height="4"/>
+                        <rect class="shelf3" x="511.5" y="777.4" width="12" height="4"/>
+                        <rect class="shelf2" x="499.5" y="777.4" width="12" height="4"/>
+                        <rect class="shelf1" x="487.5" y="777.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves64">
+                        <rect class="shelf6" x="487.5" y="773.4" width="12" height="4"/>
+                        <rect class="shelf5" x="499.5" y="773.4" width="12" height="4"/>
+                        <rect class="shelf4" x="511.5" y="773.4" width="12" height="4"/>
+                        <rect class="shelf3" x="523.5" y="773.4" width="12" height="4"/>
+                        <rect class="shelf2" x="547.5" y="773.4" width="12" height="4"/>
+                        <rect class="shelf1" x="559.5" y="773.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves63">
+                        <rect class="shelf7" x="602.5" y="773.4" width="12" height="4"/>
+                        <rect class="shelf6" x="614.5" y="773.4" width="12" height="4"/>
+                        <rect class="shelf5" x="638.5" y="773.4" width="12" height="4"/>
+                        <rect class="shelf4" x="650.5" y="773.4" width="12" height="4"/>
+                        <rect class="shelf3" x="662.5" y="773.4" width="12" height="4"/>
+                        <rect class="shelf2" x="674.5" y="773.4" width="12" height="4"/>
+                        <rect class="shelf1" x="686.5" y="773.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves62">
+                        <rect class="shelf8" x="686.5" y="741.4" width="12" height="4"/>
+                        <rect class="shelf7" x="674.5" y="741.4" width="12" height="4"/>
+                        <rect class="shelf6" x="662.5" y="741.4" width="12" height="4"/>
+                        <rect class="shelf5" x="650.5" y="741.4" width="12" height="4"/>
+                        <rect class="shelf4" x="638.5" y="741.4" width="12" height="4"/>
+                        <rect class="shelf3" x="626.5" y="741.4" width="12" height="4"/>
+                        <rect class="shelf2" x="614.5" y="741.4" width="12" height="4"/>
+                        <rect class="shelf1" x="602.5" y="741.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves61">
+                        <rect class="shelf7" x="559.5" y="741.4" width="12" height="4"/>
+                        <rect class="shelf6" x="547.5" y="741.4" width="12" height="4"/>
+                        <rect class="shelf5" x="535.5" y="741.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="741.4" width="12" height="4"/>
+                        <rect class="shelf3" x="511.5" y="741.4" width="12" height="4"/>
+                        <rect class="shelf2" x="499.5" y="741.4" width="12" height="4"/>
+                        <rect class="shelf1" x="487.5" y="741.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves60">
+                        <rect class="shelf7" x="487.5" y="737.4" width="12" height="4"/>
+                        <rect class="shelf6" x="499.5" y="737.4" width="12" height="4"/>
+                        <rect class="shelf5" x="511.5" y="737.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="737.4" width="12" height="4"/>
+                        <rect class="shelf3" x="535.5" y="737.4" width="12" height="4"/>
+                        <rect class="shelf2" x="547.5" y="737.4" width="12" height="4"/>
+                        <rect class="shelf1" x="559.5" y="737.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves59">
+                        <rect class="shelf8" x="602.5" y="737.4" width="12" height="4"/>
+                        <rect class="shelf7" x="614.5" y="737.4" width="12" height="4"/>
+                        <rect class="shelf6" x="626.5" y="737.4" width="12" height="4"/>
+                        <rect class="shelf5" x="638.5" y="737.4" width="12" height="4"/>
+                        <rect class="shelf4" x="650.5" y="737.4" width="12" height="4"/>
+                        <rect class="shelf3" x="662.5" y="737.4" width="12" height="4"/>
+                        <rect class="shelf2" x="674.5" y="737.4" width="12" height="4"/>
+                        <rect class="shelf1" x="686.5" y="737.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves58">
+                        <rect class="shelf8" x="686.5" y="723.4" width="12" height="4"/>
+                        <rect class="shelf7" x="674.5" y="723.4" width="12" height="4"/>
+                        <rect class="shelf6" x="662.5" y="723.4" width="12" height="4"/>
+                        <rect class="shelf5" x="650.5" y="723.4" width="12" height="4"/>
+                        <rect class="shelf4" x="638.5" y="723.4" width="12" height="4"/>
+                        <rect class="shelf3" x="626.5" y="723.4" width="12" height="4"/>
+                        <rect class="shelf2" x="614.5" y="723.4" width="12" height="4"/>
+                        <rect class="shelf1" x="602.5" y="723.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves57">
+                        <rect class="shelf8" x="559.5" y="723.4" width="12" height="4"/>
+                        <rect class="shelf7" x="547.5" y="723.4" width="12" height="4"/>
+                        <rect class="shelf6" x="535.5" y="723.4" width="12" height="4"/>
+                        <rect class="shelf5" x="523.5" y="723.4" width="12" height="4"/>
+                        <rect class="shelf4" x="511.5" y="723.4" width="12" height="4"/>
+                        <rect class="shelf3" x="499.5" y="723.4" width="12" height="4"/>
+                        <rect class="shelf2" x="487.5" y="723.4" width="12" height="4"/>
+                        <rect class="shelf1" x="475.5" y="723.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves56">
+                        <rect class="shelf8" x="475.5" y="719.4" width="12" height="4"/>
+                        <rect class="shelf7" x="487.5" y="719.4" width="12" height="4"/>
+                        <rect class="shelf6" x="499.5" y="719.4" width="12" height="4"/>
+                        <rect class="shelf5" x="511.5" y="719.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="719.4" width="12" height="4"/>
+                        <rect class="shelf3" x="535.5" y="719.4" width="12" height="4"/>
+                        <rect class="shelf2" x="547.5" y="719.4" width="12" height="4"/>
+                        <rect class="shelf1" x="559.5" y="719.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves55">
+                        <rect class="shelf8" x="602.5" y="719.4" width="12" height="4"/>
+                        <rect class="shelf7" x="614.5" y="719.4" width="12" height="4"/>
+                        <rect class="shelf6" x="626.5" y="719.4" width="12" height="4"/>
+                        <rect class="shelf5" x="638.5" y="719.4" width="12" height="4"/>
+                        <rect class="shelf4" x="650.5" y="719.4" width="12" height="4"/>
+                        <rect class="shelf3" x="662.5" y="719.4" width="12" height="4"/>
+                        <rect class="shelf2" x="674.5" y="719.4" width="12" height="4"/>
+                        <rect class="shelf1" x="686.5" y="719.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves54">
+                        <rect class="shelf8" x="686.5" y="706.4" width="12" height="4"/>
+                        <rect class="shelf7" x="674.5" y="706.4" width="12" height="4"/>
+                        <rect class="shelf6" x="662.5" y="706.4" width="12" height="4"/>
+                        <rect class="shelf5" x="650.5" y="706.4" width="12" height="4"/>
+                        <rect class="shelf4" x="638.5" y="706.4" width="12" height="4"/>
+                        <rect class="shelf3" x="626.5" y="706.4" width="12" height="4"/>
+                        <rect class="shelf2" x="614.5" y="706.4" width="12" height="4"/>
+                        <rect class="shelf1" x="602.5" y="706.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves53">
+                        <rect class="shelf8" x="559.5" y="706.4" width="12" height="4"/>
+                        <rect class="shelf7" x="547.5" y="706.4" width="12" height="4"/>
+                        <rect class="shelf6" x="535.5" y="706.4" width="12" height="4"/>
+                        <rect class="shelf5" x="523.5" y="706.4" width="12" height="4"/>
+                        <rect class="shelf4" x="511.5" y="706.4" width="12" height="4"/>
+                        <rect class="shelf3" x="499.5" y="706.4" width="12" height="4"/>
+                        <rect class="shelf2" x="487.5" y="706.4" width="12" height="4"/>
+                        <rect class="shelf1" x="475.5" y="706.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves52">
+                        <rect class="shelf8" x="475.5" y="702.4" width="12" height="4"/>
+                        <rect class="shelf7" x="487.5" y="702.4" width="12" height="4"/>
+                        <rect class="shelf6" x="499.5" y="702.4" width="12" height="4"/>
+                        <rect class="shelf5" x="511.5" y="702.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="702.4" width="12" height="4"/>
+                        <rect class="shelf3" x="535.5" y="702.4" width="12" height="4"/>
+                        <rect class="shelf2" x="547.5" y="702.4" width="12" height="4"/>
+                        <rect class="shelf1" x="559.5" y="702.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves51">
+                        <rect class="shelf8" x="602.5" y="702.4" width="12" height="4"/>
+                        <rect class="shelf7" x="614.5" y="702.4" width="12" height="4"/>
+                        <rect class="shelf6" x="626.5" y="702.4" width="12" height="4"/>
+                        <rect class="shelf5" x="638.5" y="702.4" width="12" height="4"/>
+                        <rect class="shelf4" x="650.5" y="702.4" width="12" height="4"/>
+                        <rect class="shelf3" x="662.5" y="702.4" width="12" height="4"/>
+                        <rect class="shelf2" x="674.5" y="702.4" width="12" height="4"/>
+                        <rect class="shelf1" x="686.5" y="702.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves50">
+                        <rect class="shelf7" x="685.5" y="687.4" width="12" height="4"/>
+                        <rect class="shelf6" x="673.5" y="687.4" width="12" height="4"/>
+                        <rect class="shelf5" x="661.5" y="687.4" width="12" height="4"/>
+                        <rect class="shelf4" x="649.5" y="687.4" width="12" height="4"/>
+                        <rect class="shelf3" x="637.5" y="687.4" width="12" height="4"/>
+                        <rect class="shelf2" x="614.5" y="687.4" width="12" height="4"/>
+                        <rect class="shelf1" x="602.5" y="687.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves49">
+                        <rect class="shelf7" x="559.5" y="687.4" width="12" height="4"/>
+                        <rect class="shelf6" x="547.5" y="687.4" width="12" height="4"/>
+                        <rect class="shelf5" x="523.5" y="687.4" width="12" height="4"/>
+                        <rect class="shelf4" x="511.5" y="687.4" width="12" height="4"/>
+                        <rect class="shelf3" x="499.5" y="687.4" width="12" height="4"/>
+                        <rect class="shelf2" x="487.5" y="687.4" width="12" height="4"/>
+                        <rect class="shelf1" x="475.5" y="687.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves48">
+                        <rect class="shelf7" x="475.5" y="683.4" width="12" height="4"/>
+                        <rect class="shelf6" x="487.5" y="683.4" width="12" height="4"/>
+                        <rect class="shelf5" x="499.5" y="683.4" width="12" height="4"/>
+                        <rect class="shelf4" x="511.5" y="683.4" width="12" height="4"/>
+                        <rect class="shelf3" x="523.5" y="683.4" width="12" height="4"/>
+                        <rect class="shelf2" x="547.5" y="683.4" width="12" height="4"/>
+                        <rect class="shelf1" x="559.5" y="683.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves47">
+                        <rect class="shelf7" x="602.5" y="683.4" width="12" height="4"/>
+                        <rect class="shelf6" x="614.5" y="683.4" width="12" height="4"/>
+                        <rect class="shelf5" x="637.5" y="683.4" width="12" height="4"/>
+                        <rect class="shelf4" x="649.5" y="683.4" width="12" height="4"/>
+                        <rect class="shelf3" x="661.5" y="683.4" width="12" height="4"/>
+                        <rect class="shelf2" x="673.5" y="683.4" width="12" height="4"/>
+                        <rect class="shelf1" x="685.5" y="683.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves46">
+                        <rect class="shelf6" x="776.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf5" x="764.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf4" x="752.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf3" x="740.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf2" x="728.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf1" x="716.5" y="650.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves45">
+                        <rect class="shelf8" x="685.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf7" x="673.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf6" x="661.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf5" x="649.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf4" x="637.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf3" x="625.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf2" x="613.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf1" x="601.5" y="650.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves44">
+                        <rect class="shelf8" x="559.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf7" x="547.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf6" x="535.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf5" x="523.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf4" x="511.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf3" x="499.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf2" x="487.5" y="650.4" width="12" height="4"/>
+                        <rect class="shelf1" x="475.5" y="650.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves43">
+                        <rect class="shelf8" x="475.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf7" x="487.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf6" x="499.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf5" x="511.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf3" x="535.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf2" x="547.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf1" x="559.5" y="646.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves42">
+                        <rect class="shelf8" x="601.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf7" x="613.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf6" x="625.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf5" x="637.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf4" x="649.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf3" x="661.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf2" x="673.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf1" x="685.5" y="646.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves41">
+                        <rect class="shelf6" x="716.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf5" x="728.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf4" x="740.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf3" x="752.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf2" x="764.5" y="646.4" width="12" height="4"/>
+                        <rect class="shelf1" x="776.5" y="646.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves40">
+                        <rect class="shelf6" x="776.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf5" x="764.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf4" x="752.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf3" x="740.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf2" x="728.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf1" x="716.5" y="632.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves39">
+                        <rect class="shelf8" x="685.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf7" x="673.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf6" x="661.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf5" x="649.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf4" x="637.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf3" x="625.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf2" x="613.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf1" x="601.5" y="632.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves38">
+                        <rect class="shelf8" x="559.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf7" x="547.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf6" x="535.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf5" x="523.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf4" x="511.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf3" x="499.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf2" x="487.5" y="632.4" width="12" height="4"/>
+                        <rect class="shelf1" x="475.5" y="632.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves37">
+                        <rect class="shelf8" x="475.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf7" x="487.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf6" x="499.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf5" x="511.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf3" x="535.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf2" x="547.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf1" x="559.5" y="628.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves36">
+                        <rect class="shelf8" x="601.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf7" x="613.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf6" x="625.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf5" x="637.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf4" x="649.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf3" x="661.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf2" x="673.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf1" x="685.5" y="628.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves35">
+                        <rect class="shelf6" x="716.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf5" x="728.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf4" x="740.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf3" x="752.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf2" x="764.5" y="628.4" width="12" height="4"/>
+                        <rect class="shelf1" x="776.5" y="628.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves34">
+                        <rect class="shelf6" x="776.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf5" x="764.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf4" x="752.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf3" x="740.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf2" x="728.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf1" x="716.5" y="615.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves33">
+                        <rect class="shelf8" x="685.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf7" x="673.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf6" x="661.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf5" x="649.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf4" x="637.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf3" x="625.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf2" x="613.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf1" x="601.5" y="615.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves32">
+                        <rect class="shelf8" x="559.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf7" x="547.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf6" x="535.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf5" x="523.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf4" x="511.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf3" x="499.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf2" x="487.5" y="615.4" width="12" height="4"/>
+                        <rect class="shelf1" x="475.5" y="615.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves31">
+                        <rect class="shelf8" x="475.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf7" x="487.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf6" x="499.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf5" x="511.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf3" x="535.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf2" x="547.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf1" x="559.5" y="611.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves30">
+                        <rect class="shelf8" x="601.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf7" x="613.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf6" x="625.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf5" x="637.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf4" x="649.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf3" x="661.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf2" x="673.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf1" x="685.5" y="611.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves29">
+                        <rect class="shelf6" x="716.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf5" x="728.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf4" x="740.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf3" x="752.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf2" x="764.5" y="611.4" width="12" height="4"/>
+                        <rect class="shelf1" x="776.5" y="611.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves28">
+                        <rect class="shelf5" x="775.5" y="595.4" width="12" height="4"/>
+                        <rect class="shelf4" x="763.5" y="595.4" width="12" height="4"/>
+                        <rect class="shelf3" x="751.5" y="595.4" width="12" height="4"/>
+                        <rect class="shelf2" x="739.5" y="595.4" width="12" height="4"/>
+                        <rect class="shelf1" x="727.5" y="595.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves27">
+                        <rect class="shelf7" x="685.5" y="595.4" width="12" height="4"/>
+                        <rect class="shelf6" x="673.5" y="595.4" width="12" height="4"/>
+                        <rect class="shelf5" x="661.5" y="595.4" width="12" height="4"/>
+                        <rect class="shelf4" x="649.5" y="595.4" width="12" height="4"/>
+                        <rect class="shelf3" x="637.5" y="595.4" width="12" height="4"/>
+                        <rect class="shelf2" x="613.5" y="595.4" width="12" height="4"/>
+                        <rect class="shelf1" x="601.5" y="595.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves26">
+                        <rect class="shelf7" x="559.5" y="595.4" width="12" height="4"/>
+                        <rect class="shelf6" x="547.5" y="595.4" width="12" height="4"/>
+                        <rect class="shelf5" x="523.5" y="595.4" width="12" height="4"/>
+                        <rect class="shelf4" x="511.5" y="595.4" width="12" height="4"/>
+                        <rect class="shelf3" x="499.5" y="595.4" width="12" height="4"/>
+                        <rect class="shelf2" x="487.5" y="595.4" width="12" height="4"/>
+                        <rect class="shelf1" x="475.5" y="595.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves25">
+                        <rect class="shelf7" x="475.5" y="591.4" width="12" height="4"/>
+                        <rect class="shelf6" x="487.5" y="591.4" width="12" height="4"/>
+                        <rect class="shelf5" x="499.5" y="591.4" width="12" height="4"/>
+                        <rect class="shelf4" x="511.5" y="591.4" width="12" height="4"/>
+                        <rect class="shelf3" x="523.5" y="591.4" width="12" height="4"/>
+                        <rect class="shelf2" x="547.5" y="591.4" width="12" height="4"/>
+                        <rect class="shelf1" x="559.5" y="591.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves24">
+                        <rect class="shelf7" x="601.5" y="591.4" width="12" height="4"/>
+                        <rect class="shelf6" x="613.5" y="591.4" width="12" height="4"/>
+                        <rect class="shelf5" x="637.5" y="591.4" width="12" height="4"/>
+                        <rect class="shelf4" x="649.5" y="591.4" width="12" height="4"/>
+                        <rect class="shelf3" x="661.5" y="591.4" width="12" height="4"/>
+                        <rect class="shelf2" x="673.5" y="591.4" width="12" height="4"/>
+                        <rect class="shelf1" x="685.5" y="591.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves23">
+                        <rect class="shelf5" x="727.5" y="591.4" width="12" height="4"/>
+                        <rect class="shelf4" x="739.5" y="591.4" width="12" height="4"/>
+                        <rect class="shelf3" x="751.5" y="591.4" width="12" height="4"/>
+                        <rect class="shelf2" x="763.5" y="591.4" width="12" height="4"/>
+                        <rect class="shelf1" x="775.5" y="591.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves22">
+                        <rect class="shelf6" x="776.5" y="576.4" width="12" height="4"/>
+                        <rect class="shelf5" x="764.5" y="576.4" width="12" height="4"/>
+                        <rect class="shelf4" x="752.5" y="576.4" width="12" height="4"/>
+                        <rect class="shelf3" x="740.5" y="576.4" width="12" height="4"/>
+                        <rect class="shelf2" x="728.5" y="576.4" width="12" height="4"/>
+                        <rect class="shelf1" x="716.5" y="576.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves21">
+                        <rect class="shelf6" x="716.5" y="572.4" width="12" height="4"/>
+                        <rect class="shelf5" x="728.5" y="572.4" width="12" height="4"/>
+                        <rect class="shelf4" x="740.5" y="572.4" width="12" height="4"/>
+                        <rect class="shelf3" x="752.5" y="572.4" width="12" height="4"/>
+                        <rect class="shelf2" x="764.5" y="572.4" width="12" height="4"/>
+                        <rect class="shelf1" x="776.5" y="572.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves20">
+                        <rect class="shelf6" x="776.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf5" x="764.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf4" x="752.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf3" x="740.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf2" x="728.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf1" x="716.5" y="558.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves19">
+                        <rect class="shelf8" x="685.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf7" x="673.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf6" x="661.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf5" x="649.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf4" x="637.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf3" x="625.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf2" x="613.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf1" x="601.5" y="558.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves18">
+                        <rect class="shelf8" x="559.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf7" x="547.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf6" x="535.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf5" x="523.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf4" x="511.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf3" x="499.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf2" x="487.5" y="558.4" width="12" height="4"/>
+                        <rect class="shelf1" x="475.5" y="558.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves17">
+                        <rect class="shelf8" x="475.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf7" x="487.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf6" x="499.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf5" x="511.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf3" x="535.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf2" x="547.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf1" x="559.5" y="554.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves16">
+                        <rect class="shelf8" x="601.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf7" x="613.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf6" x="625.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf5" x="637.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf4" x="649.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf3" x="661.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf2" x="673.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf1" x="685.5" y="554.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves15">
+                        <rect class="shelf6" x="716.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf5" x="728.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf4" x="740.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf3" x="752.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf2" x="764.5" y="554.4" width="12" height="4"/>
+                        <rect class="shelf1" x="776.5" y="554.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves14">
+                        <rect class="shelf8" x="685.5" y="540.4" width="12" height="4"/>
+                        <rect class="shelf7" x="673.5" y="540.4" width="12" height="4"/>
+                        <rect class="shelf6" x="661.5" y="540.4" width="12" height="4"/>
+                        <rect class="shelf5" x="649.5" y="540.4" width="12" height="4"/>
+                        <rect class="shelf4" x="637.5" y="540.4" width="12" height="4"/>
+                        <rect class="shelf3" x="625.5" y="540.4" width="12" height="4"/>
+                        <rect class="shelf2" x="613.5" y="540.4" width="12" height="4"/>
+                        <rect class="shelf1" x="601.5" y="540.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves13">
+                        <rect class="shelf8" x="559.5" y="540.4" width="12" height="4"/>
+                        <rect class="shelf7" x="547.5" y="540.4" width="12" height="4"/>
+                        <rect class="shelf6" x="535.5" y="540.4" width="12" height="4"/>
+                        <rect class="shelf5" x="523.5" y="540.4" width="12" height="4"/>
+                        <rect class="shelf4" x="511.5" y="540.4" width="12" height="4"/>
+                        <rect class="shelf3" x="499.5" y="540.4" width="12" height="4"/>
+                        <rect class="shelf2" x="487.5" y="540.4" width="12" height="4"/>
+                        <rect class="shelf1" x="475.5" y="540.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves12">
+                        <rect class="shelf8" x="475.5" y="536.4" width="12" height="4"/>
+                        <rect class="shelf7" x="487.5" y="536.4" width="12" height="4"/>
+                        <rect class="shelf6" x="499.5" y="536.4" width="12" height="4"/>
+                        <rect class="shelf5" x="511.5" y="536.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="536.4" width="12" height="4"/>
+                        <rect class="shelf3" x="535.5" y="536.4" width="12" height="4"/>
+                        <rect class="shelf2" x="547.5" y="536.4" width="12" height="4"/>
+                        <rect class="shelf1" x="559.5" y="536.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves11">
+                        <rect class="shelf8" x="601.5" y="536.4" width="12" height="4"/>
+                        <rect class="shelf7" x="613.5" y="536.4" width="12" height="4"/>
+                        <rect class="shelf6" x="625.5" y="536.4" width="12" height="4"/>
+                        <rect class="shelf5" x="637.5" y="536.4" width="12" height="4"/>
+                        <rect class="shelf4" x="649.5" y="536.4" width="12" height="4"/>
+                        <rect class="shelf3" x="661.5" y="536.4" width="12" height="4"/>
+                        <rect class="shelf2" x="673.5" y="536.4" width="12" height="4"/>
+                        <rect class="shelf1" x="685.5" y="536.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves10">
+                        <rect class="shelf8" x="685.5" y="523.4" width="12" height="4"/>
+                        <rect class="shelf7" x="673.5" y="523.4" width="12" height="4"/>
+                        <rect class="shelf6" x="661.5" y="523.4" width="12" height="4"/>
+                        <rect class="shelf5" x="649.5" y="523.4" width="12" height="4"/>
+                        <rect class="shelf4" x="637.5" y="523.4" width="12" height="4"/>
+                        <rect class="shelf3" x="625.5" y="523.4" width="12" height="4"/>
+                        <rect class="shelf2" x="613.5" y="523.4" width="12" height="4"/>
+                        <rect class="shelf1" x="601.5" y="523.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves9">
+                        <rect class="shelf8" x="559.5" y="523.4" width="12" height="4"/>
+                        <rect class="shelf7" x="547.5" y="523.4" width="12" height="4"/>
+                        <rect class="shelf6" x="535.5" y="523.4" width="12" height="4"/>
+                        <rect class="shelf5" x="523.5" y="523.4" width="12" height="4"/>
+                        <rect class="shelf4" x="511.5" y="523.4" width="12" height="4"/>
+                        <rect class="shelf3" x="499.5" y="523.4" width="12" height="4"/>
+                        <rect class="shelf2" x="487.5" y="523.4" width="12" height="4"/>
+                        <rect class="shelf1" x="475.5" y="523.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves8">
+                        <rect class="shelf8" x="475.5" y="519.4" width="12" height="4"/>
+                        <rect class="shelf7" x="487.5" y="519.4" width="12" height="4"/>
+                        <rect class="shelf6" x="499.5" y="519.4" width="12" height="4"/>
+                        <rect class="shelf5" x="511.5" y="519.4" width="12" height="4"/>
+                        <rect class="shelf4" x="523.5" y="519.4" width="12" height="4"/>
+                        <rect class="shelf3" x="535.5" y="519.4" width="12" height="4"/>
+                        <rect class="shelf2" x="547.5" y="519.4" width="12" height="4"/>
+                        <rect class="shelf1" x="559.5" y="519.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves7">
+                        <rect class="shelf8" x="601.5" y="519.4" width="12" height="4"/>
+                        <rect class="shelf7" x="613.5" y="519.4" width="12" height="4"/>
+                        <rect class="shelf6" x="625.5" y="519.4" width="12" height="4"/>
+                        <rect class="shelf5" x="637.5" y="519.4" width="12" height="4"/>
+                        <rect class="shelf4" x="649.5" y="519.4" width="12" height="4"/>
+                        <rect class="shelf3" x="661.5" y="519.4" width="12" height="4"/>
+                        <rect class="shelf2" x="673.5" y="519.4" width="12" height="4"/>
+                        <rect class="shelf1" x="685.5" y="519.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves6">
+                        <rect class="shelf7" x="685.5" y="503.4" width="12" height="4"/>
+                        <rect class="shelf6" x="673.5" y="503.4" width="12" height="4"/>
+                        <rect class="shelf5" x="661.5" y="503.4" width="12" height="4"/>
+                        <rect class="shelf4" x="649.5" y="503.4" width="12" height="4"/>
+                        <rect class="shelf3" x="637.5" y="503.4" width="12" height="4"/>
+                        <rect class="shelf2" x="613.5" y="503.4" width="12" height="4"/>
+                        <rect class="shelf1" x="601.5" y="503.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves5">
+                        <rect class="shelf7" x="559.5" y="503.4" width="12" height="4"/>
+                        <rect class="shelf6" x="547.5" y="503.4" width="12" height="4"/>
+                        <rect class="shelf5" x="524.5" y="503.4" width="12" height="4"/>
+                        <rect class="shelf4" x="512.5" y="503.4" width="12" height="4"/>
+                        <rect class="shelf3" x="500.5" y="503.4" width="12" height="4"/>
+                        <rect class="shelf2" x="488.5" y="503.4" width="12" height="4"/>
+                        <rect class="shelf1" x="476.5" y="503.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves4">
+                        <rect class="shelf7" x="476.5" y="499.4" width="12" height="4"/>
+                        <rect class="shelf6" x="488.5" y="499.4" width="12" height="4"/>
+                        <rect class="shelf5" x="500.5" y="499.4" width="12" height="4"/>
+                        <rect class="shelf4" x="512.5" y="499.4" width="12" height="4"/>
+                        <rect class="shelf3" x="524.5" y="499.4" width="12" height="4"/>
+                        <rect class="shelf2" x="547.5" y="499.4" width="12" height="4"/>
+                        <rect class="shelf1" x="559.5" y="499.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves3">
+                        <rect class="shelf7" x="601.5" y="499.4" width="12" height="4"/>
+                        <rect class="shelf6" x="613.5" y="499.4" width="12" height="4"/>
+                        <rect class="shelf5" x="637.5" y="499.4" width="12" height="4"/>
+                        <rect class="shelf4" x="649.5" y="499.4" width="12" height="4"/>
+                        <rect class="shelf3" x="661.5" y="499.4" width="12" height="4"/>
+                        <rect class="shelf2" x="673.5" y="499.4" width="12" height="4"/>
+                        <rect class="shelf1" x="685.5" y="499.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves2">
+                        <rect class="shelf8" x="685.5" y="486.4" width="12" height="4"/>
+                        <rect class="shelf7" x="673.5" y="486.4" width="12" height="4"/>
+                        <rect class="shelf6" x="661.5" y="486.4" width="12" height="4"/>
+                        <rect class="shelf5" x="649.5" y="486.4" width="12" height="4"/>
+                        <rect class="shelf4" x="637.5" y="486.4" width="12" height="4"/>
+                        <rect class="shelf3" x="625.5" y="486.4" width="12" height="4"/>
+                        <rect class="shelf2" x="613.5" y="486.4" width="12" height="4"/>
+                        <rect class="shelf1" x="601.5" y="486.4" width="12" height="4"/>
+                     </g>
+                     <g id="shelves1">
+                        <rect class="shelf8" x="601.5" y="482.4" width="12" height="4"/>
+                        <rect class="shelf7" x="613.5" y="482.4" width="12" height="4"/>
+                        <rect class="shelf6" x="625.5" y="482.4" width="12" height="4"/>
+                        <rect class="shelf5" x="637.5" y="482.4" width="12" height="4"/>
+                        <rect class="shelf4" x="649.5" y="482.4" width="12" height="4"/>
+                        <rect class="shelf3" x="661.5" y="482.4" width="12" height="4"/>
+                        <rect class="shelf2" x="673.5" y="482.4" width="12" height="4"/>
+                        <rect class="shelf1" x="685.5" y="482.4" width="12" height="4"/>
+                     </g>
+                  </g>
+                  <g id="carrels">
+                     <g id="carrelsnorth">
+                        <g id="doublecarrel_20_">
+                           <rect x="454.5" y="645.4" width="8" height="4"/>
+                           <rect x="457.5" y="641.4" width="2" height="2"/>
+                           <rect x="454.5" y="649.4" width="8" height="4"/>
+                           <rect x="457.5" y="655.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_19_">
+                           <rect x="454.5" y="619.4" width="8" height="4"/>
+                           <rect x="457.5" y="615.4" width="2" height="2"/>
+                           <rect x="454.5" y="623.4" width="8" height="4"/>
+                           <rect x="457.5" y="629.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_18_">
+                           <rect x="454.5" y="591.4" width="8" height="4"/>
+                           <rect x="457.5" y="587.4" width="2" height="2"/>
+                           <rect x="454.5" y="595.4" width="8" height="4"/>
+                           <rect x="457.5" y="601.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_17_">
+                           <rect x="454.5" y="565.4" width="8" height="4"/>
+                           <rect x="457.5" y="561.4" width="2" height="2"/>
+                           <rect x="454.5" y="569.4" width="8" height="4"/>
+                           <rect x="457.5" y="575.4" width="2" height="2"/>
+                        </g>
+                        <g id="carrel_2_">
+                           <rect x="454.5" y="540.4" width="8" height="4"/>
+                           <rect x="457.5" y="536.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_16_">
+                           <rect x="454.5" y="515.4" width="8" height="4"/>
+                           <rect x="457.5" y="511.4" width="2" height="2"/>
+                           <rect x="454.5" y="519.4" width="8" height="4"/>
+                           <rect x="457.5" y="525.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_15_">
+                           <rect x="454.5" y="490.4" width="8" height="4"/>
+                           <rect x="457.5" y="486.4" width="2" height="2"/>
+                           <rect x="454.5" y="494.4" width="8" height="4"/>
+                           <rect x="457.5" y="500.4" width="2" height="2"/>
+                        </g>
+                     </g>
+                     <g id="carrelssouth">
+                        <g id="doublecarrel_14_">
+                           <rect x="802.5" y="648.4" width="8" height="4"/>
+                           <rect x="805.5" y="644.4" width="2" height="2"/>
+                           <rect x="802.5" y="652.4" width="8" height="4"/>
+                           <rect x="805.5" y="658.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_13_">
+                           <rect x="802.5" y="623.4" width="8" height="4"/>
+                           <rect x="805.5" y="619.4" width="2" height="2"/>
+                           <rect x="802.5" y="627.4" width="8" height="4"/>
+                           <rect x="805.5" y="633.4" width="2" height="2"/>
+                        </g>
+                        <g id="carrel">
+                           <rect x="802.5" y="585.4" width="8" height="4"/>
+                           <rect x="805.5" y="581.4" width="2" height="2"/>
+                        </g>
+                        <g id="triplecarrel">
+                           <rect x="806.5" y="533.4" width="4" height="8"/>
+                           <rect x="802.5" y="536.4" width="2" height="2"/>
+                           <rect x="806.5" y="541.4" width="4" height="8"/>
+                           <rect x="806.5" y="549.4" width="4" height="8"/>
+                           <rect x="802.5" y="552.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_12_">
+                           <rect x="770.5" y="674.4" width="4" height="8"/>
+                           <rect x="776.5" y="677.4" width="2" height="2"/>
+                           <rect x="766.5" y="674.4" width="4" height="8"/>
+                           <rect x="762.5" y="677.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_11_">
+                           <rect x="745.5" y="674.4" width="4" height="8"/>
+                           <rect x="751.5" y="678.4" width="2" height="2"/>
+                           <rect x="741.5" y="674.4" width="4" height="8"/>
+                           <rect x="737.5" y="678.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_10_">
+                           <rect x="781.5" y="529.4" width="4" height="8"/>
+                           <rect x="787.5" y="532.4" width="2" height="2"/>
+                           <rect x="777.5" y="529.4" width="4" height="8"/>
+                           <rect x="773.5" y="532.4" width="2" height="2"/>
+                        </g>
+                        <g id="carrel_1_">
+                           <rect x="756.5" y="529.4" width="4" height="8"/>
+                           <rect x="762.5" y="532.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_9_">
+                           <rect x="739.5" y="529.4" width="4" height="8"/>
+                           <rect x="745.5" y="532.4" width="2" height="2"/>
+                           <rect x="735.5" y="529.4" width="4" height="8"/>
+                           <rect x="731.5" y="532.4" width="2" height="2"/>
+                        </g>
+                     </g>
+                     <g id="carrelssouth1">
+                        <g id="doublecarrel_8_">
+                           <rect x="802.5" y="871.4" width="8" height="4"/>
+                           <rect x="805.5" y="866.4" width="2" height="2"/>
+                           <rect x="802.5" y="875.4" width="8" height="4"/>
+                           <rect x="805.5" y="881.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_7_">
+                           <rect x="802.5" y="845.4" width="8" height="4"/>
+                           <rect x="805.5" y="841.4" width="2" height="2"/>
+                           <rect x="802.5" y="849.4" width="8" height="4"/>
+                           <rect x="805.5" y="855.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_6_">
+                           <rect x="802.5" y="819.4" width="8" height="4"/>
+                           <rect x="805.5" y="815.4" width="2" height="2"/>
+                           <rect x="802.5" y="823.4" width="8" height="4"/>
+                           <rect x="805.5" y="829.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_5_">
+                           <rect x="801.5" y="793.4" width="8" height="4"/>
+                           <rect x="804.5" y="789.4" width="2" height="2"/>
+                           <rect x="801.5" y="797.4" width="8" height="4"/>
+                           <rect x="804.5" y="803.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_4_">
+                           <rect x="770.5" y="763.4" width="4" height="8"/>
+                           <rect x="776.5" y="766.4" width="2" height="2"/>
+                           <rect x="766.5" y="763.4" width="4" height="8"/>
+                           <rect x="761.5" y="766.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_3_">
+                           <rect x="747.5" y="763.4" width="4" height="8"/>
+                           <rect x="753.5" y="766.4" width="2" height="2"/>
+                           <rect x="743.5" y="763.4" width="4" height="8"/>
+                           <rect x="739.5" y="766.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_2_">
+                           <rect x="785.5" y="892.4" width="4" height="8"/>
+                           <rect x="781.5" y="895.4" width="2" height="2"/>
+                           <rect x="785.5" y="900.4" width="4" height="8"/>
+                           <rect x="791.5" y="902.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel_1_">
+                           <rect x="769.5" y="892.4" width="4" height="8"/>
+                           <rect x="765.5" y="895.4" width="2" height="2"/>
+                           <rect x="769.5" y="900.4" width="4" height="8"/>
+                           <rect x="775.5" y="902.4" width="2" height="2"/>
+                        </g>
+                        <g id="doublecarrel">
+                           <rect x="752.5" y="892.4" width="4" height="8"/>
+                           <rect x="748.5" y="895.4" width="2" height="2"/>
+                           <rect x="752.5" y="900.4" width="4" height="8"/>
+                           <rect x="758.5" y="902.4" width="2" height="2"/>
+                        </g>
+                     </g>
+                  </g>
+                  <g id="tables">
+                     <g id="tableslab">
+                        <g id="table4_3_">
+                           <rect x="489.5" y="856.4" width="8" height="15"/>
+                           <rect x="485.5" y="866.4" width="2" height="2"/>
+                           <rect x="485.5" y="859.4" width="2" height="2"/>
+                           <rect x="499.5" y="866.4" width="2" height="2"/>
+                           <rect x="499.5" y="859.4" width="2" height="2"/>
+                        </g>
+                        <g id="table4_2_">
+                           <rect x="660.5" y="860.4" width="15" height="8"/>
+                           <rect x="670.5" y="870.4" width="2" height="2"/>
+                           <rect x="663.5" y="870.4" width="2" height="2"/>
+                           <rect x="670.5" y="856.4" width="2" height="2"/>
+                           <rect x="663.5" y="856.4" width="2" height="2"/>
+                        </g>
+                        <g id="table4_1_">
+                           <rect x="683.5" y="860.4" width="15" height="8"/>
+                           <rect x="693.5" y="870.4" width="2" height="2"/>
+                           <rect x="686.5" y="870.4" width="2" height="2"/>
+                           <rect x="693.5" y="856.4" width="2" height="2"/>
+                           <rect x="686.5" y="856.4" width="2" height="2"/>
+                        </g>
+                        <g id="table7">
+                           <rect x="447.5" y="826.4" width="15" height="36"/>
+                           <rect x="466.5" y="844.4" width="2" height="2"/>
+                           <rect x="466.5" y="833.4" width="2" height="2"/>
+                           <rect x="466.5" y="855.4" width="2" height="2"/>
+                           <rect x="441.5" y="844.4" width="2" height="2"/>
+                           <rect x="441.5" y="833.4" width="2" height="2"/>
+                           <rect x="441.5" y="855.4" width="2" height="2"/>
+                           <rect x="454.5" y="821.4" width="2" height="2"/>
+                        </g>
+                     </g>
+                     <g id="tablescommon">
+                        <g id="table6">
+                           <rect x="669.5" y="412.4" width="8" height="22"/>
+                           <rect x="665.5" y="429.4" width="2" height="2"/>
+                           <rect x="665.5" y="422.4" width="2" height="2"/>
+                           <rect x="679.5" y="429.4" width="2" height="2"/>
+                           <rect x="679.5" y="422.4" width="2" height="2"/>
+                           <rect x="665.5" y="415.4" width="2" height="2"/>
+                           <rect x="679.5" y="415.4" width="2" height="2"/>
+                        </g>
+                     </g>
+                  </g>
+                  <g id="couches">
+                     <g id="couch_1_">
+                        <path d="M412.5,111.4v-4c0-0.6-0.4-1-1-1h-13c-0.6,0-1,0.4-1,1v4c0,0.6,0.4,1,1,1h13
+                           C412.1,112.4,412.5,111.9,412.5,111.4z"/>
+                        <path d="M412,110.4h2.5v-3.6c0-1.3-0.5-2.4-1.1-2.4h-16.9c-0.6,0-1,1.1-1,2.4v3.6h2.5"/>
+                     </g>
+                     <g id="couch">
+                        <path d="M396.5,129.4h-4c-0.6,0-1-0.4-1-1v-13c0-0.6,0.4-1,1-1h4c0.6,0,1,0.4,1,1v13
+                           C397.5,128.9,397.1,129.4,396.5,129.4z"/>
+                        <path d="M395.5,128.9v2.5h-3.6c-1.3,0-2.4-0.5-2.4-1.1v-16.9c0-0.6,1.1-1,2.4-1h3.6v2.5"/>
+                     </g>
+                     <g id="couchgroup">
+                        <rect id="table" x="645.5" y="362.4" width="4" height="4"/>
+                        <g id="chair_3_">
+                           <path d="M656.5,370.4v4c0,0.6-0.4,1-1,1h-4c-0.6,0-1-0.4-1-1v-4c0-0.6,0.4-1,1-1h4
+                              C656.1,369.4,656.5,369.8,656.5,370.4z"/>
+                           <path d="M651,371.4h-2.5v4c0,1.1,0.9,2,2,2h6c1.1,0,2-0.9,2-2v-4H657"/>
+                        </g>
+                        <g id="chair_2_">
+                           <path d="M643.5,370.4v4c0,0.6-0.4,1-1,1h-4c-0.6,0-1-0.4-1-1v-4c0-0.6,0.4-1,1-1h4
+                              C643.1,369.4,643.5,369.8,643.5,370.4z"/>
+                           <path d="M638,371.4h-2.5v4c0,1.1,0.9,2,2,2h6c1.1,0,2-0.9,2-2v-4H644"/>
+                        </g>
+                        <g id="chair_1_">
+                           <path d="M637.5,358.4v-4c0-0.6,0.4-1,1-1h4c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1h-4
+                              C637.9,359.4,637.5,358.9,637.5,358.4z"/>
+                           <path d="M643,357.4h2.5v-4c0-1.1-0.9-2-2-2h-6c-1.1,0-2,0.9-2,2v4h1.5"/>
+                        </g>
+                        <g id="chair">
+                           <path d="M650.5,358.4v-4c0-0.6,0.4-1,1-1h4c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1h-4
+                              C650.9,359.4,650.5,358.9,650.5,358.4z"/>
+                           <path d="M656,357.4h2.5v-4c0-1.1-0.9-2-2-2h-6c-1.1,0-2,0.9-2,2v4h1.5"/>
+                        </g>
+                     </g>
+                     <g id="couchgroup_1_">
+                        <rect id="table_1_" x="638.5" y="445.4" width="4" height="4"/>
+                        <g id="chair_7_">
+                           <path d="M649.5,453.4v4c0,0.6-0.4,1-1,1h-4c-0.6,0-1-0.4-1-1v-4c0-0.6,0.4-1,1-1h4
+                              C649.1,452.4,649.5,452.8,649.5,453.4z"/>
+                           <path d="M644,454.4h-2.5v4c0,1.1,0.9,2,2,2h6c1.1,0,2-0.9,2-2v-4H650"/>
+                        </g>
+                        <g id="chair_6_">
+                           <path d="M636.5,453.4v4c0,0.6-0.4,1-1,1h-4c-0.6,0-1-0.4-1-1v-4c0-0.6,0.4-1,1-1h4
+                              C636.1,452.4,636.5,452.8,636.5,453.4z"/>
+                           <path d="M631,454.4h-2.5v4c0,1.1,0.9,2,2,2h6c1.1,0,2-0.9,2-2v-4H637"/>
+                        </g>
+                        <g id="chair_5_">
+                           <path d="M630.5,441.4v-4c0-0.6,0.4-1,1-1h4c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1h-4
+                              C630.9,442.4,630.5,441.9,630.5,441.4z"/>
+                           <path d="M636,440.4h2.5v-4c0-1.1-0.9-2-2-2h-6c-1.1,0-2,0.9-2,2v4h1.5"/>
+                        </g>
+                        <g id="chair_4_">
+                           <path d="M643.5,441.4v-4c0-0.6,0.4-1,1-1h4c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1h-4
+                              C643.9,442.4,643.5,441.9,643.5,441.4z"/>
+                           <path d="M649,440.4h2.5v-4c0-1.1-0.9-2-2-2h-6c-1.1,0-2,0.9-2,2v4h1.5"/>
+                        </g>
+                     </g>
+                  </g>
+                  <g id="servicedesks">
+                     <rect id="service100" x="403.5" y="139.9" width="44.8" height="6"/>
+                  </g>
+                  <g id="elevators">
+                     <polygon id="elevatorglass" points="574.5,440.4 580.5,440.4 580.5,436.4 594.5,436.4 594.5,440.4 600.5,440.4 
+                        600.5,454.6 587.4,467 574.5,453.9 	"/>
+                     <rect id="elevatorfreight" x="763.5" y="372.4" width="24" height="35"/>
+                  </g>
+                  <g id="stairs">
+                     <g id="stairne">
+                        <line x1="98.6" y1="31.4" x2="86.1" y2="18.9"/>
+                        <line x1="95.1" y1="34.8" x2="82.6" y2="22.3"/>
+                        <line x1="91.6" y1="38.4" x2="79.2" y2="25.9"/>
+                        <line x1="88.2" y1="41.8" x2="75.6" y2="29.3"/>
+                        <line x1="84.9" y1="45.6" x2="72.1" y2="32.8"/>
+                        <line x1="81.2" y1="48.8" x2="68.6" y2="36.2"/>
+                        <line x1="77.6" y1="52.3" x2="65.1" y2="39.8"/>
+                        <line x1="74.2" y1="55.8" x2="61.7" y2="43.3"/>
+                        <line class="stairscenterline" x1="99.9" y1="30.1" x2="72.8" y2="57.1"/>
+                     </g>
+                     <g id="stairnw">
+                        <path d="M446,755.9"/>
+                        <path d="M396,755.9"/>
+                        <line x1="396" y1="750.9" x2="447" y2="750.9"/>
+                        <line x1="396" y1="745.9" x2="447" y2="745.9"/>
+                        <line x1="396" y1="740.9" x2="447" y2="740.9"/>
+                        <line x1="396" y1="735.9" x2="447" y2="735.9"/>
+                        <line x1="396" y1="730.9" x2="447" y2="730.9"/>
+                        <line x1="396" y1="725.9" x2="447" y2="725.9"/>
+                        <line x1="396" y1="720.9" x2="447" y2="720.9"/>
+                        <line x1="396" y1="715.9" x2="447" y2="715.9"/>
+                        <line x1="396" y1="710.9" x2="447" y2="710.9"/>
+                        <line x1="396" y1="705.9" x2="447" y2="705.9"/>
+                        <path d="M446,700.9"/>
+                        <line class="stairscenterline" x1="421.5" y1="751.9" x2="421.5" y2="703.9"/>
+                     </g>
+                     <g id="stairse">
+                        <line x1="729" y1="347.1" x2="729" y2="364.9"/>
+                        <line x1="734" y1="347.1" x2="734" y2="364.9"/>
+                        <line x1="739" y1="347.1" x2="739" y2="364.9"/>
+                        <line x1="744" y1="347.1" x2="744" y2="364.9"/>
+                        <line x1="749" y1="347.1" x2="749" y2="364.9"/>
+                        <line x1="754" y1="347.1" x2="754" y2="364.9"/>
+                        <line x1="759" y1="325.9" x2="759" y2="364.9"/>
+                        <line x1="764" y1="325.9" x2="764" y2="364.9"/>
+                        <line x1="769" y1="325.9" x2="769" y2="364.9"/>
+                        <line x1="774" y1="325.9" x2="774" y2="364.9"/>
+                        <line class="stairscenterline" x1="756.2" y1="345.4" x2="775" y2="345.4"/>
+                     </g>
+                     <g id="stairsw">
+                        <line x1="747" y1="688.9" x2="747" y2="711.9"/>
+                        <line x1="752" y1="688.9" x2="752" y2="711.9"/>
+                        <line x1="757" y1="688.9" x2="757" y2="711.9"/>
+                        <line x1="762" y1="688.9" x2="762" y2="711.9"/>
+                        <line x1="767" y1="688.9" x2="767" y2="711.9"/>
+                        <line x1="767" y1="712.9" x2="790" y2="712.9"/>
+                        <line x1="767" y1="717.9" x2="790" y2="717.9"/>
+                        <line x1="767" y1="722.9" x2="790" y2="722.9"/>
+                        <line x1="767" y1="727.9" x2="790" y2="727.9"/>
+                        <line x1="767" y1="732.9" x2="790" y2="732.9"/>
+                        <line x1="767" y1="732.9" x2="767" y2="754.9"/>
+                        <line x1="762" y1="733.9" x2="762" y2="754.9"/>
+                        <line x1="757" y1="733.9" x2="757" y2="754.9"/>
+                        <line x1="752" y1="733.9" x2="752" y2="754.9"/>
+                        <line x1="747" y1="733.9" x2="747" y2="754.9"/>
+                        <line x1="724" y1="732.9" x2="746" y2="732.9"/>
+                        <line x1="724" y1="727.9" x2="746" y2="727.9"/>
+                        <line x1="724" y1="722.9" x2="746" y2="722.9"/>
+                        <line x1="724" y1="717.9" x2="746" y2="717.9"/>
+                        <rect x="747" y="712.9" class="stairscenterline" width="20" height="20"/>
+                     </g>
+                  </g>
+                  <g id="outerwalls">
+                     <polyline points="815.5,916.9 815.5,412.4 721,412.4 	"/>
+                     <line x1="301.9" y1="780.4" x2="393" y2="780.4"/>
+                     <polyline points="266.5,793.9 266.5,780.4 280,780.4 	"/>
+                     <path d="M541,914.4c-76.5,0-159.6,0-236,0l-38.5-38.5c0,0,0-32.6,0-60"/>
+                     <path d="M818,914.4c0,0-113.8,0-255,0"/>
+                     <line x1="390" y1="415.4" x2="452" y2="415.4"/>
+                     <line x1="382.5" y1="774.9" x2="382.5" y2="780.9"/>
+                     <line x1="382.5" y1="759.9" x2="382.5" y2="763.9"/>
+                     <line x1="396" y1="760.4" x2="378" y2="760.4"/>
+                     <line x1="449.5" y1="667.9" x2="449.5" y2="320.9"/>
+                     <polyline points="475,759.4 449.5,759.4 449.5,678.9 	"/>
+                     <polyline points="393.5,762.9 393.5,684.4 450,684.4 	"/>
+                     <path d="M460.5,787.9v3.5l-67,0c0,0,0-5.3,0-13.5"/>
+                     <line x1="460.5" y1="760.9" x2="460.5" y2="763.9"/>
+                     <line x1="539" y1="324.4" x2="452" y2="324.4"/>
+                     <line x1="686" y1="324.4" x2="628" y2="324.4"/>
+                     <path d="M270.5,322.9c0,0,0-12,0-13.8c-0.2-0.1-0.3-0.2-0.3-0.2l-118-118L96,247.1"/>
+                     <line x1="85.4" y1="124.5" x2="93.9" y2="133"/>
+                     <polyline points="98.3,3.1 31.1,70.3 68.6,107.7 	"/>
+                     <polyline points="130.9,282 172.2,323.4 450,323.4 	"/>
+                     <polyline points="103.4,123.5 73.5,153.4 2.3,153.4 122.9,274 	"/>
+                     <polyline points="126.5,33.9 83.3,77.1 116.5,110.4 111.4,115.5 	"/>
+                     <line x1="721.5" y1="326.9" x2="721.5" y2="324.9"/>
+                     <line x1="721.5" y1="347.1" x2="721.5" y2="337.9"/>
+                     <polyline points="715,382.4 721.5,382.4 721.5,364.4 	"/>
+                     <path d="M442,98.4h7L515.4,32l198.4,198.4l-28.3,0c0,9.5,0,152,0,152h5.5"/>
+                     <polyline points="96.5,4.9 190,98.4 418,98.4 	"/>
+                     <line x1="692" y1="323.4" x2="688" y2="323.4"/>
+                     <polyline points="793.5,413.9 793.5,323.4 714,323.4 	"/>
+                     <line x1="794" y1="367.4" x2="722" y2="367.4"/>
+                     <line x1="757.5" y1="381.9" x2="757.5" y2="366.9"/>
+                     <line x1="757.5" y1="411.9" x2="757.5" y2="400.6"/>
+                     <path d="M722,344.4c0,0,27.4,0,31.5,0c0-0.3,0-0.5,0-0.5v-21"/>
+                     <line x1="722" y1="524.4" x2="816" y2="524.4"/>
+                     <polyline points="792.5,685.9 792.5,757.4 722,757.4 	"/>
+                     <line x1="809" y1="686.4" x2="816" y2="686.4"/>
+                     <polyline points="711.5,690.9 711.5,686.4 798,686.4 	"/>
+                     <path d="M721.5,780.9c0-0.1,0-53.5,0-53.5l-10,0l0-12.5"/>
+                     <line x1="449.5" y1="752.2" x2="475" y2="752.2"/>
+                     <line x1="472.5" y1="758.9" x2="472.5" y2="751.9"/>
+                     <line x1="450.7" y1="755.9" x2="472.5" y2="755.9"/>
+                     <line x1="721.5" y1="727.4" x2="721.5" y2="716.4"/>
+                     <line x1="711.5" y1="719.4" x2="721.5" y2="719.4"/>
+                     <line x1="713" y1="723.4" x2="720.2" y2="723.4"/>
+                  </g>
+                  <g id="outerwallselevator">
+                     <polygon points="566.5,459 571.5,454.2 571.5,432.4 574.5,432.4 574.5,438.4 578.5,438.4 578.5,428.4 566.5,428.4 "/>
+                     <polygon points="608.5,459 603.5,454.2 603.5,432.4 600.5,432.4 600.5,438.4 596.5,438.4 596.5,428.4 608.5,428.4  "/>
+                  </g>
+                  <g id="windows">
+                     <g id="windoweast">
+                        <rect x="388" y="96.4" width="28" height="4.5"/>
+                        <line x1="402.5" y1="96.9" x2="402.5" y2="100.9"/>
+                        <line x1="416" y1="96.9" x2="416" y2="100.9"/>
+                     </g>
+                     <g id="windowsouth">
+                        <rect x="683" y="234.9" width="4" height="82.5"/>
+                        <line x1="687" y1="291.4" x2="684" y2="291.4"/>
+                        <line x1="687" y1="305.4" x2="683" y2="305.4"/>
+                        <line x1="687" y1="317.4" x2="684" y2="317.4"/>
+                        <line x1="687" y1="278.4" x2="684" y2="278.4"/>
+                        <line x1="687" y1="263.4" x2="684" y2="263.4"/>
+                        <line x1="687" y1="248.4" x2="683" y2="248.4"/>
+                     </g>
+                  </g>
+                  <g id="doors">
+                     <g id="doorsprintshop_2_">
+                        <rect x="167.5" y="301.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -162.9338 210.3931)" width="10" height="1"/>
+                     </g>
+                     <g id="doorsprintshop_1_">
+                        <rect x="172" y="280.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -151.6201 205.7068)" width="1" height="10"/>
+                     </g>
+                     <g id="doorsprintshop">
+                        <rect x="125" y="274.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -161.1434 170.7154)" width="1" height="10"/>
+                     </g>
+                     <g id="doorsstairsnw">
+                        <rect x="448.5" y="764.4" width="10" height="1"/>
+                        <path d="M448.5,764.4c0,0.3-0.1,0.7-0.1,1c0,5.5,4.5,10,10.1,10"/>
+                        <rect x="448.5" y="786.4" width="10" height="1"/>
+                        <path d="M448.6,787.4c0-0.3-0.1-0.7-0.1-1c0-5.5,4.5-10,10.1-10"/>
+                        <rect x="458.5" y="775.4" width="1" height="1"/>
+                     </g>
+                     <g id="doors133">
+                        <rect x="490.5" y="469.4" width="1" height="10"/>
+                        <path d="M491.7,469.4c-0.3,0-0.7-0.1-1-0.1c-5.5,0-10,4.5-10,10.1"/>
+                     </g>
+                     <g id="doors132">
+                        <rect x="527.5" y="478.4" width="10" height="1"/>
+                     </g>
+                     <g id="doors131">
+                        <rect x="531.5" y="387.4" width="10" height="1"/>
+                        <path d="M531.7,387.4c0,0.3-0.1,0.7-0.1,1c0,5.5,4.5,10,10.1,10"/>
+                     </g>
+                     <g id="doors130">
+                        <rect x="531.5" y="358.4" width="10" height="1"/>
+                        <path d="M531.6,359.2c0-0.3-0.1-0.7-0.1-1c0-5.5,4.5-10,10.1-10"/>
+                     </g>
+                     <g id="doors110_1_">
+                        <rect x="798.5" y="683.4" width="10" height="1"/>
+                     </g>
+                     <g id="doors110">
+                        <rect x="798.5" y="757.4" width="10" height="1"/>
+                     </g>
+                     <g id="doors106c">
+                        <rect x="386.5" y="228.4" width="1" height="10"/>
+                        <rect x="386.5" y="239.4" width="1" height="10"/>
+                        <rect x="385.5" y="238.4" width="1" height="1"/>
+                     </g>
+                     <g id="doors106b">
+                        <rect x="521.5" y="284.4" width="1" height="10"/>
+                        <path d="M522.5,294.4c-0.3,0-0.7,0.1-1,0.1c-5.5,0-10-4.5-10-10.1"/>
+                     </g>
+                     <g id="doors106a">
+                        <rect x="531.5" y="284.4" width="1" height="10"/>
+                        <path d="M531.5,294.4c0.3,0,0.7,0.1,1,0.1c5.5,0,10-4.5,10-10.1"/>
+                     </g>
+                     <g id="doors106">
+                        <rect x="564.5" y="276.4" width="10" height="1"/>
+                        <path d="M564.5,277.5c0-0.3-0.1-0.7-0.1-1c0-5.5,4.5-10,10.1-10"/>
+                     </g>
+                     <g id="doors105">
+                        <rect x="606.5" y="282.4" width="10" height="1"/>
+                        <path d="M616.4,282.2c0,0.3,0.1,0.7,0.1,1c0,5.5-4.5,10-10.1,10"/>
+                     </g>
+                     <g id="doors104">
+                        <rect x="606.5" y="272.4" width="10" height="1"/>
+                        <path d="M616.4,273c0-0.3,0.1-0.7,0.1-1c0-5.5-4.5-10-10.1-10"/>
+                     </g>
+                     <g id="doors103a">
+                        <rect x="674.6" y="196.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 55.1877 536.4493)" width="1" height="10"/>
+                        <path d="M679.1,204.8c-0.2,0.3-0.4,0.5-0.7,0.7c-3.9,3.9-10.3,3.9-14.2,0"/>
+                     </g>
+                     <g id="doors103">
+                        <rect x="606.5" y="225.4" width="10" height="1"/>
+                        <path d="M616.5,226.2c0-0.3,0.1-0.7,0.1-1c0-5.5-4.5-10-10.1-10"/>
+                     </g>
+                     <g id="doors102_1_">
+                        <rect x="461.2" y="96.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 68.1295 358.0299)" width="10" height="1"/>
+                        <path d="M462.3,100c0.2,0.3,0.4,0.5,0.7,0.7c3.9,3.9,10.3,3.9,14.2,0"/>
+                     </g>
+                     <g id="doors102">
+                        <rect x="595.9" y="207" transform="matrix(0.176 -0.9844 0.9844 0.176 290.9128 762.4895)" width="10" height="1"/>
+                        <path d="M600.5,212.6c-0.3,0-0.7-0.1-1-0.1c-5.4-1-9.1-6.2-8.1-11.7"/>
+                     </g>
+                     <g id="doorsmech">
+                        <rect x="451.5" y="668.4" width="1" height="10"/>
+                     </g>
+                     <g id="doorstunnel">
+                        <rect x="541.5" y="911.4" width="10" height="1"/>
+                        <rect x="552.5" y="911.4" width="10" height="1"/>
+                        <polygon points="551.5,913.4 552.5,913.4 552.5,912.4 551.5,912.4 		"/>
+                     </g>
+                     <g id="doorsclosedstacks3">
+                        <rect x="263.5" y="805.4" width="1" height="10"/>
+                        <rect x="263.5" y="794.4" width="1" height="10"/>
+                        <polygon points="265.5,805.4 265.5,804.4 264.5,804.4 264.5,805.4 		"/>
+                     </g>
+                     <g id="doorsclosedstacks2">
+                        <rect x="280.5" y="777.4" width="10" height="1"/>
+                        <rect x="291.5" y="777.4" width="10" height="1"/>
+                        <polygon points="290.5,779.4 291.5,779.4 291.5,778.4 290.5,778.4 		"/>
+                     </g>
+                     <g id="doorsclosedstacks1">
+                        <rect x="409.5" y="810.4" width="1" height="10"/>
+                        <rect x="409.5" y="799.4" width="1" height="10"/>
+                        <polygon points="408.5,810.3 408.5,809.3 409.5,809.4 409.5,810.4 		"/>
+                     </g>
+                     <g id="doorsstairssw">
+                        <rect x="713.5" y="691.4" width="10" height="1"/>
+                        <path d="M723.4,691.4c0,0.3,0.1,0.7,0.1,1c0,5.5-4.5,10-10.1,10"/>
+                        <rect x="713.5" y="713.4" width="10" height="1"/>
+                        <path d="M723.4,714.4c0-0.3,0.1-0.7,0.1-1c0-5.5-4.5-10-10.1-10"/>
+                        <rect x="712.5" y="702.4" width="1" height="1"/>
+                     </g>
+                     <g id="doorsstairnw">
+                        <rect x="379.5" y="764.4" width="1" height="10"/>
+                     </g>
+                     <g id="doorsstairsne2">
+                        <rect x="100.8" y="117.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -52.5095 109.3952)" width="10" height="1"/>
+                     </g>
+                     <g id="doorsstairne">
+                        <rect x="78.6" y="117" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -63.0674 91.6843)" width="1" height="10"/>
+                        <rect x="70.9" y="109.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -59.8455 83.9061)" width="1" height="10"/>
+                        <polygon points="76.6,117.4 75.9,116.6 75.3,117.4 76,118.1 		"/>
+                     </g>
+                     <g id="doorsplumbing">
+                        <rect x="751.5" y="468.4" width="1" height="10"/>
+                     </g>
+                     <g id="doorsjanitor">
+                        <rect x="721.5" y="467.4" width="1" height="10"/>
+                     </g>
+                     <g id="doorswomen">
+                        <rect x="723.5" y="516.4" width="10" height="1"/>
+                        <path d="M733.5,517.7c0-0.3,0.1-0.7,0.1-1c0-5.5-4.5-10-10.1-10"/>
+                     </g>
+                     <g id="doorsmen">
+                        <rect x="723.5" y="424.4" width="10" height="1"/>
+                        <path d="M733.6,424c0,0.3,0.1,0.7,0.1,1c0,5.5-4.5,10-10.1,10"/>
+                     </g>
+                     <g id="doorsstairsse_1_">
+                        <rect x="713.5" y="370.4" width="1" height="10"/>
+                        <path d="M714.5,370.4c-0.3,0-0.7-0.1-1-0.1c-5.5,0-10,4.5-10,10.1"/>
+                        <rect x="691.5" y="370.4" width="1" height="10"/>
+                        <path d="M691.5,370.5c0.3,0,0.7-0.1,1-0.1c5.5,0,10,4.5,10,10.1"/>
+                        <rect x="702.5" y="380.4" width="1" height="1"/>
+                     </g>
+                     <g id="doorsstairsseel">
+                        <rect x="718.5" y="327.4" width="1" height="10"/>
+                     </g>
+                     <g id="doorsstairsse">
+                        <rect x="692.5" y="320.4" width="10" height="1"/>
+                        <rect x="703.5" y="320.4" width="10" height="1"/>
+                        <polygon points="702.5,322.4 703.5,322.4 703.5,321.4 702.5,321.4 		"/>
+                     </g>
+                     <g id="doorsentrance3">
+                        <rect x="600.5" y="325.4" width="1" height="10"/>
+                        <path d="M601.4,335.4c-0.3,0-0.5,0-0.9,0c-5.5,0-10-4.5-10-10.1"/>
+                        <rect x="578.5" y="325.4" width="1" height="10"/>
+                        <path d="M578.5,335.4c0.3,0,0.7,0.1,1,0.1c5.5,0,10-4.5,10-10.1"/>
+                        <rect x="589.5" y="325.4" width="1" height="1"/>
+                     </g>
+                     <g id="doorsentrance2">
+                        <rect x="440.5" y="86.4" width="1" height="10"/>
+                        <path d="M441.5,86.4c-0.3,0-0.7-0.1-1-0.1c-5.5,0-10,4.5-10,10.1"/>
+                        <rect x="418.5" y="86.4" width="1" height="10"/>
+                        <path d="M418.5,86.5c0.3,0,0.7-0.1,1-0.1c5.5,0,10,4.5,10,10.1"/>
+                        <rect x="429.5" y="96.4" width="1" height="1"/>
+                     </g>
+                     <g id="doorsentrance1">
+                        <rect x="443.5" y="56.4" width="1" height="10"/>
+                        <path d="M444.5,56.4c-0.3,0-0.7-0.1-1-0.1c-5.5,0-10,4.5-10,10.1"/>
+                        <rect x="421.5" y="56.4" width="1" height="10"/>
+                        <path d="M421.5,56.5c0.3,0,0.7-0.1,1-0.1c5.5,0,10,4.5,10,10.1"/>
+                        <rect x="432.5" y="66.4" width="1" height="1"/>
+                     </g>
+                  </g>
+                  <g id="text">
+                     <rect x="478.8" y="570.4" width="113.5" height="24"/>
+                     <text transform="matrix(1 0 0 1 478.75 578.8945)">Books P - Z</text>
+                     <rect x="718.3" y="388.2" width="55.5" height="22.4"/>
+                     <text transform="matrix(1 0 0 1 718.25 396.6971)">Elevator</text>
+                     <rect x="565.8" y="414.8" width="47.5" height="18.1"/>
+                     <text transform="matrix(1 0 0 1 565.7577 423.3473)">Elevator</text>
+                     <rect x="434.3" y="878.5" width="46.5" height="19.7"/>
+                     <text transform="matrix(1 0 0 1 434.25 887.0332)">Computers</text>
+                     <rect x="750.2" y="423.5" width="38.5" height="17.7"/>
+                     <text transform="matrix(1 0 0 1 750.2343 432.0332)">Men</text>
+                     <rect x="737.5" y="502.6" width="50" height="21"/>
+                     <text transform="matrix(1 0 0 1 737.5 511.1445)">Women</text>
+                     <rect x="406" y="247" width="105" height="50"/>
+                     <a xlink:href="#">
+                        <text transform="matrix(1 0 0 1 406 255.493)">
+                           <tspan x="0" y="0">Department</tspan>
+                           <tspan x="0" y="14.4">Area</tspan>
+                        </text>
+                     </a>
+                     <rect x="389.5" y="152.1" width="105" height="21"/>
+                     <text transform="matrix(1 0 0 1 389.5 160.6607)">Desk</text>
+                     <rect x="435" y="43.2" width="55" height="17.1"/>
+                     <text transform="matrix(1 0 0 1 435 51.726)">Entrance</text>
+                  </g>
+                  <g id="numbers">
+                     <rect x="345.5" y="795.9" width="38" height="16.9"/>
+                     <text id="room140" transform="matrix(1 0 0 1 345.5 805.9152)" >012</text>
+                     <rect x="454.5" y="464.1" width="38" height="16.9"/>
+                     <text id="room133" transform="matrix(1 0 0 1 454.5 474.0975)" >011</text>
+                     <rect x="499.4" y="464.5" width="38" height="16.9"/>
+                     <text id="room132" transform="matrix(1 0 0 1 499.3698 474.4897)" >010</text>
+                     <rect x="455" y="399.9" width="38" height="16.9"/>
+                     <text id="room131" transform="matrix(1 0 0 1 455 409.9308)" >009</text>
+                     <rect x="456" y="349.9" width="38" height="16.9"/>
+                     <text id="room130" transform="matrix(1 0 0 1 456 359.9308)" >008</text>
+                     <rect x="799" y="703.9" width="16.9" height="38"/>
+                     <text id="room110" transform="matrix(0 -1 1 0 809.0558 741.875)" >007</text>
+                     <rect x="482" y="298.4" width="38" height="16.9"/>
+                     <text id="room106b" transform="matrix(1 0 0 1 482 308.447)" >006B</text>
+                     <rect x="536.6" y="298.5" width="38" height="16.9"/>
+                     <text id="room106a" transform="matrix(1 0 0 1 536.6024 308.5142)" >006A</text>
+                     <rect x="393.8" y="175.6" width="38" height="16.9"/>
+                     <text id="room106" transform="matrix(1 0 0 1 393.8333 185.6266)" >005</text>
+                     <rect x="641.1" y="280.9" width="38" height="16.9"/>
+                     <text id="room105" transform="matrix(1 0 0 1 641.0927 290.9308)" >004</text>
+                     <rect x="641.1" y="235.7" width="38" height="16.9"/>
+                     <text id="room104" transform="matrix(1 0 0 1 641.0927 245.7225)" >003</text>
+                     <rect x="656.1" y="202" transform="matrix(0.7071 -0.7071 0.7071 0.7071 48.9317 539.0406)" width="38" height="16.9"/>
+                     <text id="room103a" transform="matrix(0.7071 -0.7071 0.7071 0.7071 662.8649 224.991)" >A</text>
+                     <rect x="619.8" y="178" transform="matrix(0.7071 -0.7071 0.7071 0.7071 55.2573 506.312)" width="38" height="16.9"/>
+                     <text id="room103" transform="matrix(0.7071 -0.7071 0.7071 0.7071 626.5209 200.991)" >002</text>
+                     <rect x="488.1" y="53" transform="matrix(0.7071 -0.7071 0.7071 0.7071 105.0646 376.5954)" width="38" height="16.9"/>
+                     <text id="room102" transform="matrix(0.7071 -0.7071 0.7071 0.7071 494.8427 76.01)" >001</text>
+                     <rect x="400.5" y="122" width="38" height="12.9"/>
+                     <text id="room100" transform="matrix(1 0 0 1 400.5 132.0636)" >000</text>
+                  </g>
+                  <g id="icons">
+                     <g id="icondvd">
+                        <g id="dvd">
+                           <circle cx="676" cy="334.9" r="4.5"/>
+                           <g>
+                              <path d="M674,332.9h1.7c0.4,0,0.7,0,0.9,0.1c0.3,0.1,0.5,0.2,0.7,0.5c0.2,0.2,0.3,0.5,0.5,0.8
+                                 c0.1,0.3,0.2,0.7,0.2,1.2c0,0.4,0,0.8-0.1,1.1c-0.1,0.4-0.3,0.7-0.5,0.9c-0.2,0.2-0.4,0.3-0.7,0.4c-0.2,0.1-0.5,0.1-0.8,0.1H674
+                                 V332.9z M675,333.9v3h0.6c0.2,0,0.4,0,0.5,0c0.1,0,0.3-0.1,0.3-0.2c0.1-0.1,0.2-0.2,0.2-0.4c0.1-0.2,0.1-0.5,0.1-0.8
+                                 c0-0.4,0-0.6-0.1-0.8c-0.1-0.2-0.1-0.3-0.2-0.4c-0.1-0.1-0.2-0.2-0.4-0.2c-0.1,0-0.4,0-0.7,0H675z"/>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="icongroupstudy">
+                        <g id="group130">
+                           <circle cx="530.1" cy="336.9" r="7.9"/>
+                           <path d="M530.8,338.1l1.2-0.1c0.1,0.4,0.2,0.8,0.5,1s0.5,0.3,0.9,0.3c0.4,0,0.7-0.1,0.9-0.3
+                              c0.2-0.2,0.3-0.4,0.3-0.6c0-0.2,0-0.3-0.1-0.4s-0.2-0.2-0.5-0.3c-0.1-0.1-0.5-0.2-1-0.3c-0.7-0.2-1.2-0.4-1.4-0.7
+                              c-0.4-0.4-0.6-0.8-0.6-1.3c0-0.3,0.1-0.7,0.3-0.9c0.2-0.3,0.4-0.5,0.8-0.7c0.3-0.2,0.8-0.2,1.2-0.2c0.8,0,1.4,0.2,1.8,0.5
+                              s0.6,0.9,0.6,1.5l-1.3,0.1c-0.1-0.3-0.2-0.6-0.3-0.7s-0.4-0.2-0.8-0.2c-0.4,0-0.7,0.1-0.9,0.2c-0.1,0.1-0.2,0.2-0.2,0.4
+                              c0,0.2,0.1,0.3,0.2,0.4c0.2,0.1,0.5,0.3,1.2,0.4c0.6,0.2,1.1,0.3,1.4,0.5c0.3,0.2,0.5,0.4,0.7,0.7s0.3,0.6,0.3,1.1
+                              c0,0.4-0.1,0.7-0.3,1.1s-0.5,0.6-0.8,0.7c-0.4,0.2-0.8,0.2-1.4,0.2c-0.8,0-1.4-0.2-1.8-0.6S530.9,338.8,530.8,338.1z"/>
+                           <path d="M527.2,337.8v-1.1h2.7v2.6c-0.3,0.3-0.6,0.5-1.2,0.7c-0.5,0.2-1,0.3-1.5,0.3c-0.7,0-1.2-0.1-1.7-0.4
+                              s-0.9-0.7-1.1-1.2c-0.2-0.5-0.4-1.1-0.4-1.8c0-0.7,0.1-1.3,0.4-1.8s0.7-0.9,1.2-1.2c0.4-0.2,0.9-0.3,1.5-0.3
+                              c0.8,0,1.4,0.2,1.8,0.5c0.4,0.3,0.7,0.8,0.8,1.4l-1.3,0.2c-0.1-0.3-0.3-0.6-0.5-0.8c-0.2-0.2-0.5-0.3-0.9-0.3
+                              c-0.6,0-1,0.2-1.3,0.6s-0.5,0.9-0.5,1.7c0,0.8,0.2,1.4,0.5,1.8c0.3,0.4,0.8,0.6,1.3,0.6c0.3,0,0.5-0.1,0.8-0.2
+                              c0.3-0.1,0.5-0.2,0.7-0.4v-0.8H527.2z"/>
+                        </g>
+                        <g id="group131">
+                           <circle cx="530" cy="375" r="7.9"/>
+                           <path d="M530.6,376.2l1.2-0.1c0.1,0.4,0.2,0.8,0.5,1s0.5,0.3,0.9,0.3c0.4,0,0.7-0.1,0.9-0.3
+                              c0.2-0.2,0.3-0.4,0.3-0.6c0-0.2,0-0.3-0.1-0.4s-0.2-0.2-0.5-0.3c-0.1-0.1-0.5-0.2-1-0.3c-0.7-0.2-1.2-0.4-1.4-0.7
+                              c-0.4-0.4-0.6-0.8-0.6-1.3c0-0.3,0.1-0.7,0.3-0.9c0.2-0.3,0.4-0.5,0.8-0.7c0.3-0.2,0.8-0.2,1.2-0.2c0.8,0,1.4,0.2,1.8,0.5
+                              s0.6,0.9,0.6,1.5l-1.3,0.1c-0.1-0.3-0.2-0.6-0.3-0.7s-0.4-0.2-0.8-0.2c-0.4,0-0.7,0.1-0.9,0.2c-0.1,0.1-0.2,0.2-0.2,0.4
+                              c0,0.2,0.1,0.3,0.2,0.4c0.2,0.1,0.5,0.3,1.2,0.4c0.6,0.2,1.1,0.3,1.4,0.5c0.3,0.2,0.5,0.4,0.7,0.7s0.3,0.6,0.3,1.1
+                              c0,0.4-0.1,0.7-0.3,1.1s-0.5,0.6-0.8,0.7c-0.4,0.2-0.8,0.2-1.4,0.2c-0.8,0-1.4-0.2-1.8-0.6S530.7,377,530.6,376.2z"/>
+                           <path d="M527.1,376v-1.1h2.7v2.6c-0.3,0.3-0.6,0.5-1.2,0.7c-0.5,0.2-1,0.3-1.5,0.3c-0.7,0-1.2-0.1-1.7-0.4
+                              s-0.9-0.7-1.1-1.2c-0.2-0.5-0.4-1.1-0.4-1.8c0-0.7,0.1-1.3,0.4-1.8s0.7-0.9,1.2-1.2c0.4-0.2,0.9-0.3,1.5-0.3
+                              c0.8,0,1.4,0.2,1.8,0.5c0.4,0.3,0.7,0.8,0.8,1.4l-1.3,0.2c-0.1-0.3-0.3-0.6-0.5-0.8c-0.2-0.2-0.5-0.3-0.9-0.3
+                              c-0.6,0-1,0.2-1.3,0.6s-0.5,0.9-0.5,1.7c0,0.8,0.2,1.4,0.5,1.8c0.3,0.4,0.8,0.6,1.3,0.6c0.3,0,0.5-0.1,0.8-0.2
+                              c0.3-0.1,0.5-0.2,0.7-0.4V376H527.1z"/>
+                        </g>
+                        <g id="group133">
+                           <circle cx="462.5" cy="427.4" r="7.9"/>
+                           <path d="M463.2,428.6l1.2-0.1c0.1,0.4,0.2,0.8,0.5,1s0.5,0.3,0.9,0.3c0.4,0,0.7-0.1,0.9-0.3
+                              c0.2-0.2,0.3-0.4,0.3-0.6c0-0.2,0-0.3-0.1-0.4s-0.2-0.2-0.5-0.3c-0.1-0.1-0.5-0.2-1-0.3c-0.7-0.2-1.2-0.4-1.4-0.7
+                              c-0.4-0.4-0.6-0.8-0.6-1.3c0-0.3,0.1-0.7,0.3-0.9c0.2-0.3,0.4-0.5,0.8-0.7c0.3-0.2,0.8-0.2,1.2-0.2c0.8,0,1.4,0.2,1.8,0.5
+                              s0.6,0.9,0.6,1.5l-1.3,0.1c-0.1-0.3-0.2-0.6-0.3-0.7s-0.4-0.2-0.8-0.2c-0.4,0-0.7,0.1-0.9,0.2c-0.1,0.1-0.2,0.2-0.2,0.4
+                              c0,0.2,0.1,0.3,0.2,0.4c0.2,0.1,0.5,0.3,1.2,0.4c0.6,0.2,1.1,0.3,1.4,0.5c0.3,0.2,0.5,0.4,0.7,0.7s0.3,0.6,0.3,1.1
+                              c0,0.4-0.1,0.7-0.3,1.1s-0.5,0.6-0.8,0.7c-0.4,0.2-0.8,0.2-1.4,0.2c-0.8,0-1.4-0.2-1.8-0.6S463.3,429.3,463.2,428.6z"/>
+                           <path d="M459.6,428.3v-1.1h2.7v2.6c-0.3,0.3-0.6,0.5-1.2,0.7c-0.5,0.2-1,0.3-1.5,0.3c-0.7,0-1.2-0.1-1.7-0.4
+                              s-0.9-0.7-1.1-1.2c-0.2-0.5-0.4-1.1-0.4-1.8c0-0.7,0.1-1.3,0.4-1.8s0.7-0.9,1.2-1.2c0.4-0.2,0.9-0.3,1.5-0.3
+                              c0.8,0,1.4,0.2,1.8,0.5c0.4,0.3,0.7,0.8,0.8,1.4l-1.3,0.2c-0.1-0.3-0.3-0.6-0.5-0.8c-0.2-0.2-0.5-0.3-0.9-0.3
+                              c-0.6,0-1,0.2-1.3,0.6s-0.5,0.9-0.5,1.7c0,0.8,0.2,1.4,0.5,1.8c0.3,0.4,0.8,0.6,1.3,0.6c0.3,0,0.5-0.1,0.8-0.2
+                              c0.3-0.1,0.5-0.2,0.7-0.4v-0.8H459.6z"/>
+                        </g>
+                     </g>
+                     <g id="iconprinters">
+                        <g id="printer">
+                           <circle cx="463.2" cy="856.9" r="4.5"/>
+                           <g>
+                              <path d="M461.7,859.3v-5h1.5c0.6,0,1,0,1.1,0.1c0.3,0.1,0.5,0.2,0.7,0.5c0.2,0.3,0.3,0.6,0.3,1
+                                 c0,0.3-0.1,0.6-0.2,0.8c-0.1,0.2-0.2,0.4-0.4,0.5c-0.2,0.1-0.3,0.2-0.5,0.2c-0.2,0-0.6,0.1-1,0.1h-0.6v1.9H461.7z M462.7,855.2
+                                 v1.4h0.5c0.4,0,0.6,0,0.8-0.1s0.2-0.1,0.3-0.2c0.1-0.1,0.1-0.2,0.1-0.4c0-0.2-0.1-0.3-0.2-0.4c-0.1-0.1-0.2-0.2-0.4-0.2
+                                 c-0.1,0-0.3,0-0.7,0H462.7z"/>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="iconmicroforms">
+                        <g id="micro_3_">
+                           <g>
+                              <circle cx="734" cy="866.9" r="4.5"/>
+                              <path d="M731,869.9v-5h1.6l0.9,3.6l0.8-3.6h1.7v5h-1v-3.7l-1.1,3.7H733l-1-3.7v3.7H731z"/>
+                           </g>
+                        </g>
+                        <g id="micro_2_">
+                           <g>
+                              <circle cx="713" cy="866.9" r="4.5"/>
+                              <path d="M710,869.9v-5h1.6l0.9,3.6l0.8-3.6h1.7v5h-1v-3.7l-1.1,3.7H712l-1-3.7v3.7H710z"/>
+                           </g>
+                        </g>
+                        <g id="micro_1_">
+                           <g>
+                              <circle cx="644" cy="866.9" r="4.5"/>
+                              <path d="M642,869.9v-5h1.6l0.9,3.2l0.8-3.2h1.7v5h-1v-4.1l-1.1,4.1H644l-1-4.1v4.1H642z"/>
+                           </g>
+                        </g>
+                        <g id="micro">
+                           <circle cx="622" cy="866.9" r="4.5"/>
+                           <path d="M620,869.9v-5h1.6l0.9,3.3l0.8-3.3h1.7v5h-1v-4l-1.1,4H622l-1-4v4H620z"/>
+                        </g>
+                     </g>
+                     <g id="iconmacs">
+                        <g id="mac_7_">
+                           <circle cx="416" cy="825.9" r="4.5"/>
+                           <path d="M418.1,827.9h-1l-0.4-1h-1.9l-0.4,1h-1l1.8-5h1L418.1,827.9z M416.3,825.9l-0.6-1.8l-0.6,1.8H416.3z"/>
+                        </g>
+                        <g id="mac_6_">
+                           <circle cx="416" cy="835.9" r="4.5"/>
+                           <path d="M418,837.9h-1l-0.4-1h-1.9l-0.4,1h-1l1.8-5h1L418,837.9z M416.3,835.9l-0.6-1.8l-0.6,1.8H416.3z"/>
+                        </g>
+                        <g id="mac_5_">
+                           <circle cx="416" cy="845.9" r="4.5"/>
+                           <path d="M418.4,847.9h-1l-0.4-1h-1.9l-0.4,1h-1l1.8-5h1L418.4,847.9z M416.6,845.9L416,844l-0.6,1.8H416.6z"/>
+                        </g>
+                        <g id="mac_4_">
+                           <circle cx="416" cy="855.9" r="4.5"/>
+                           <path d="M418.4,857.9h-1l-0.4-1H415l-0.4,1h-1l1.8-5h1L418.4,857.9z M416.6,855.9L416,854l-0.6,1.8H416.6z"/>
+                        </g>
+                        <g id="mac_3_">
+                           <circle cx="416" cy="865.9" r="4.5"/>
+                           <path d="M418,867.9h-1l-0.4-1h-1.9l-0.4,1h-1l1.8-5h1L418,867.9z M416.3,865.9l-0.6-1.8l-0.6,1.8H416.3z"/>
+                        </g>
+                        <g id="mac_2_">
+                           <circle cx="416" cy="875.9" r="4.5"/>
+                           <path d="M418,877.9h-1l-0.4-1h-1.9l-0.4,1h-1l1.8-5h1L418,877.9z M416.2,875.9l-0.6-1.8l-0.6,1.8H416.2z"/>
+                        </g>
+                        <g id="mac_1_">
+                           <circle cx="416" cy="885.9" r="4.5"/>
+                           <path d="M418.4,887.9h-1l-0.4-1H415l-0.4,1h-1l1.8-5h1L418.4,887.9z M416.6,885.9L416,884l-0.6,1.8H416.6z"/>
+                        </g>
+                        <g id="mac">
+                           <circle cx="416" cy="895.9" r="4.5"/>
+                           <path d="M418.3,897.9h-1l-0.4-1H415l-0.4,1h-1l1.8-5h1L418.3,897.9z M416.6,895.9l-0.6-1.8l-0.6,1.8H416.6z"/>
+                        </g>
+                     </g>
+                     <g id="iconvm">
+                        <g id="vmlabtable">
+                           <g id="vm_37_">
+                              <g id="Lab_26_18_">
+                                 <circle cx="448" cy="832.9" r="4.5"/>
+                                 <path d="M446.7,835.9l-1.7-5h1l1.2,3.7l1.2-3.7h1l-1.7,5H446.7z"/>
+                              </g>
+                           </g>
+                           <g id="vm_36_">
+                              <g id="Lab_26_11_">
+                                 <circle cx="448" cy="844.9" r="4.5"/>
+                                 <path d="M447.2,847.9l-1.7-5h1l1.2,3.7l1.2-3.7h1l-1.7,5H447.2z"/>
+                              </g>
+                           </g>
+                           <g id="vm_35_">
+                              <g id="Lab_26_16_">
+                                 <circle cx="448" cy="856.9" r="4.5"/>
+                                 <path d="M447.2,859.9l-1.7-5h1l1.2,3.7l1.2-3.7h1l-1.7,5H447.2z"/>
+                              </g>
+                           </g>
+                           <g id="vm_34_">
+                              <g id="Lab_26_5_">
+                                 <circle cx="463" cy="844.9" r="4.5"/>
+                                 <path d="M462.2,847.9l-1.7-5h1l1.2,3.7l1.2-3.7h1l-1.7,5H462.2z"/>
+                              </g>
+                           </g>
+                           <g id="vm_33_">
+                              <g id="Lab_26_14_">
+                                 <circle cx="463" cy="832.9" r="4.5"/>
+                                 <path d="M461.7,835.9l-1.7-5h1l1.2,3.7l1.2-3.7h1l-1.7,5H461.7z"/>
+                              </g>
+                           </g>
+                           <g id="vm_32_">
+                              <g id="Lab_26_1_">
+                                 <circle cx="456" cy="822.9" r="4.5"/>
+                                 <path d="M455.2,825.9l-1.7-5h1l1.2,3.7l1.2-3.7h1l-1.7,5H455.2z"/>
+                              </g>
+                           </g>
+                        </g>
+                        <g id="vmlab2">
+                           <g id="vm_31_">
+                              <circle cx="416.3" cy="905.4" r="4.5"/>
+                              <path d="M415.9,908.8l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H415.9z"/>
+                           </g>
+                           <g id="vm_30_">
+                              <circle cx="426.8" cy="905.4" r="4.5"/>
+                              <path d="M426,908.8l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H426z"/>
+                           </g>
+                           <g id="vm_29_">
+                              <circle cx="437" cy="905.4" r="4.5"/>
+                              <path d="M436.8,908.8l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H436.8z"/>
+                           </g>
+                           <g id="vm_28_">
+                              <circle cx="447.5" cy="905.4" r="4.5"/>
+                              <path d="M447,908.8l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H447z"/>
+                           </g>
+                           <g id="vm_27_">
+                              <circle cx="458" cy="905.4" r="4.5"/>
+                              <path d="M457.3,908.8l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H457.3z"/>
+                           </g>
+                           <g id="vm_26_">
+                              <circle cx="468.5" cy="905.4" r="4.5"/>
+                              <path d="M468.1,908.8l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H468.1z"/>
+                           </g>
+                           <g id="vm_25_">
+                              <circle cx="479" cy="905.4" r="4.5"/>
+                              <path d="M478.2,908.8l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H478.2z"/>
+                           </g>
+                           <g id="vm_24_">
+                              <circle cx="489.5" cy="905.4" r="4.5"/>
+                              <path d="M489.3,908.8l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H489.3z"/>
+                           </g>
+                           <g id="vm_23_">
+                              <circle cx="500" cy="905.4" r="4.5"/>
+                              <path d="M499.5,908.8l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H499.5z"/>
+                           </g>
+                           <g id="vm_22_">
+                              <circle cx="510.5" cy="905.4" r="4.5"/>
+                              <path d="M509.8,908.8l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H509.8z"/>
+                           </g>
+                           <g id="vm_21_">
+                              <circle cx="521" cy="905.4" r="4.5"/>
+                              <path d="M520.6,908.8l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H520.6z"/>
+                           </g>
+                           <g id="vm_20_">
+                              <circle cx="531.5" cy="905.4" r="4.5"/>
+                              <path d="M530.7,908.8l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H530.7z"/>
+                           </g>
+                        </g>
+                        <g id="vmlab1">
+                           <g id="vm_19_">
+                              <circle cx="569.4" cy="905.1" r="4.5"/>
+                              <path d="M569.1,908.5l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H569.1z"/>
+                           </g>
+                           <g id="vm_18_">
+                              <circle cx="579.9" cy="905.1" r="4.5"/>
+                              <path d="M579.3,908.5l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H579.3z"/>
+                           </g>
+                           <g id="vm_17_">
+                              <circle cx="590.4" cy="905.1" r="4.5"/>
+                              <path d="M589.6,908.5l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H589.6z"/>
+                           </g>
+                           <g id="vm_16_">
+                              <circle cx="600.9" cy="905.1" r="4.5"/>
+                              <path d="M600.4,908.5l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H600.4z"/>
+                           </g>
+                           <g id="vm_15_">
+                              <circle cx="611.4" cy="905.1" r="4.5"/>
+                              <path d="M610.5,908.5l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H610.5z"/>
+                           </g>
+                           <g id="vm_14_">
+                              <circle cx="621.6" cy="905.1" r="4.5"/>
+                              <path d="M621.3,908.5l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H621.3z"/>
+                           </g>
+                           <g id="vm_13_">
+                              <circle cx="632.1" cy="905.1" r="4.5"/>
+                              <path d="M631.5,908.5l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H631.5z"/>
+                           </g>
+                           <g id="vm_12_">
+                              <circle cx="642.6" cy="905.1" r="4.5"/>
+                              <path d="M641.8,908.5l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H641.8z"/>
+                           </g>
+                           <g id="vm_11_">
+                              <circle cx="653.1" cy="905.1" r="4.5"/>
+                              <path d="M652.6,908.5l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H652.6z"/>
+                           </g>
+                           <g id="vm_10_">
+                              <circle cx="663.6" cy="905.1" r="4.5"/>
+                              <path d="M662.7,908.5l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H662.7z"/>
+                           </g>
+                           <g id="vm_9_">
+                              <circle cx="674.1" cy="905.1" r="4.5"/>
+                              <path d="M673.8,908.5l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H673.8z"/>
+                           </g>
+                           <g id="vm_8_">
+                              <circle cx="684.6" cy="905.1" r="4.5"/>
+                              <path d="M684,908.5l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H684z"/>
+                           </g>
+                           <g id="vm_7_">
+                              <circle cx="695.1" cy="905.1" r="4.5"/>
+                              <path d="M694.3,908.5l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H694.3z"/>
+                           </g>
+                           <g id="vm_6_">
+                              <circle cx="705.6" cy="905.1" r="4.5"/>
+                              <path d="M705.1,908.5l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H705.1z"/>
+                           </g>
+                           <g id="vm_5_">
+                              <circle cx="716.1" cy="905.1" r="4.5"/>
+                              <path d="M715.2,908.5l-1.8-5.3h1.1l1.3,3.9l1.2-3.9h1.1l-1.8,5.3H715.2z"/>
+                           </g>
+                        </g>
+                        <g id="vmcommon">
+                           <g id="vm_4_">
+                              <g id="Lab_26_10_">
+                                 <circle cx="676" cy="379.9" r="4.5"/>
+                                 <path d="M675.2,382.9l-1.7-5h1l1.2,3.7l1.2-3.7h1l-1.7,5H675.2z"/>
+                              </g>
+                           </g>
+                           <g id="vm_3_">
+                              <g id="Lab_26_13_">
+                                 <circle cx="676" cy="368.9" r="4.5"/>
+                                 <path d="M675.2,371.9l-1.7-5h1l1.2,3.7l1.2-3.7h1l-1.7,5H675.2z"/>
+                              </g>
+                           </g>
+                           <g id="vm_2_">
+                              <g id="Lab_26_6_">
+                                 <circle cx="676" cy="356.9" r="4.5"/>
+                                 <path d="M675.2,359.9l-1.7-5h1l1.2,3.7l1.2-3.7h1l-1.7,5H675.2z"/>
+                              </g>
+                           </g>
+                           <g id="vm_1_">
+                              <g id="Lab_26_4_">
+                                 <circle cx="676" cy="345.9" r="4.5"/>
+                                 <path d="M675.2,348.9l-1.7-5h1l1.2,3.7l1.2-3.7h1l-1.7,5H675.2z"/>
+                              </g>
+                           </g>
+                           <g id="vm">
+                              <g id="Lab_26_2_">
+                                 <circle cx="614" cy="332.9" r="4.5"/>
+                                 <path d="M613.2,335.9l-1.7-5h1l1.2,3.7l1.2-3.7h1l-1.7,5H613.2z"/>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                     <g id="restroom">
+                        <g id="men">
+                           <g>
+                              <path d="M788.3,429.8c0,0.4-0.2,0.8-0.5,1.2s-0.7,0.5-1.2,0.5c-0.5,0-0.9-0.2-1.2-0.5c-0.3-0.3-0.5-0.7-0.5-1.2
+                                 c0-0.5,0.2-0.9,0.5-1.2c0.3-0.3,0.8-0.5,1.2-0.5c0.5,0,0.9,0.2,1.2,0.5C788.1,429,788.3,429.4,788.3,429.8z M791.1,440.6
+                                 c0,0.1-0.1,0.3-0.4,0.4c-0.2,0.1-0.4,0.2-0.6,0.2c-0.2,0-0.4-0.1-0.6-0.3c-0.2-0.2-0.3-0.3-0.3-0.5v-5.1h-0.4v14.2
+                                 c0,0.2-0.1,0.3-0.4,0.5c-0.2,0.2-0.5,0.2-0.6,0.2c-0.7,0-1.1-0.3-1.1-0.9v-8.1c-0.1-0.1-0.1-0.1-0.2-0.1c-0.1,0-0.2,0-0.3,0.1
+                                 v8.3c0,0.1-0.1,0.2-0.3,0.4s-0.4,0.3-0.5,0.3c-0.3,0-0.6-0.1-0.8-0.2c-0.3-0.2-0.5-0.4-0.5-0.7v-14.1h-0.4v5.3
+                                 c0,0.4-0.3,0.6-0.9,0.6c-0.6,0-0.9-0.2-0.9-0.7v-6.3c0-0.6,0.3-1.1,0.8-1.5c0.5-0.5,1-0.7,1.6-0.7h4.9c0.4,0,0.8,0.2,1.3,0.7
+                                 c0.5,0.5,0.7,0.9,0.7,1.3V440.6z"/>
+                           </g>
+                        </g>
+                        <g id="women">
+                           <g>
+                              <path d="M789.9,491.5c0,0.4-0.2,0.8-0.5,1.2c-0.4,0.3-0.8,0.5-1.2,0.5c-0.5,0-0.9-0.2-1.2-0.5
+                                 c-0.3-0.3-0.5-0.7-0.5-1.2c0-0.5,0.2-0.9,0.5-1.2c0.3-0.3,0.7-0.5,1.2-0.5c0.5,0,0.9,0.2,1.2,0.5
+                                 C789.7,490.6,789.9,491,789.9,491.5z M793.4,501c0,0.5-0.2,0.8-0.7,0.8c-0.3,0-0.6-0.2-0.8-0.5c-0.1-0.1-0.2-0.8-0.5-1.9
+                                 c0,0-0.3-1-0.8-2.8l-0.5,0l2.2,7.8c0,0.1,0,0.2-0.2,0.4h-1.9v6.4c0,0.4-0.3,0.6-1,0.6c-0.1,0-0.3-0.1-0.5-0.2
+                                 c-0.2-0.2-0.3-0.3-0.3-0.5v-6.3h-0.5v6.4c0,0.1-0.1,0.3-0.3,0.4c-0.2,0.2-0.4,0.2-0.5,0.2c-0.2,0-0.5-0.1-0.7-0.2
+                                 c-0.3-0.1-0.4-0.3-0.4-0.5v-6.4h-1.7c-0.2-0.2-0.2-0.3-0.2-0.4l2-7.8c-0.1,0-0.2,0-0.4,0c0,0,0,0,0,0c-0.4,1.5-0.8,3.1-1.3,4.8
+                                 c-0.2,0.3-0.4,0.4-0.7,0.4c-0.5,0-0.8-0.3-0.8-0.8c0-0.2,0.2-1.2,0.7-2.8c0.4-1.6,0.7-2.6,0.9-2.9c0.1-0.4,0.4-0.7,0.7-0.9
+                                 c0.4-0.3,0.7-0.4,1.1-0.4h3.6c0.4,0,0.8,0.2,1.1,0.5c0.3,0.3,0.6,0.7,0.7,1.1C792.8,498.5,793.4,500.4,793.4,501z"/>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+            </svg>
+         </div>
+         <nav>
+            <div>
+               <ul>
+                  <li><a href="index.html">index</a></li>
+                  <li>Level 1</li>
+                  <li><a href="level2.html">Level 2</a></li>
+                  <li><a href="level3.html">Level 3</a></li>
+                  <li><a href="level4.html">Level 4</a></li>
+               </ul>
+            </div>
+         </nav>
+      </main>
+      <footer>
+         <!-- place footer here -->
+      </footer>
+   </body>
+</html>

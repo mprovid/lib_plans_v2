@@ -1,0 +1,489 @@
+[data-layer="here"] {
+	fill: orange;
+	stroke:red;
+	stroke-width:2;
+	}
+
+/* --------------------------------------- 	SVG Styles         ----------------------------------- */
+/* #####################                 maps and icons                ########################### */
+/* #####################                                               ########################### */
+
+.svg-container {
+ position: relative; 
+ height: 0; 
+ width: 100%; 
+ padding: 0;
+ padding-bottom: 100%; 
+ /* override this inline for aspect ratio other than square */
+}
+.svg-container svg {
+ position: absolute; 
+ height: 100%; 
+ width: 100%; 
+ left: 0; 
+ top: 0;
+}
+/* -----------------------  Map toggle --------------------------------- */
+
+svg #department1,
+svg .department1 {fill:#ffb3b3; /*stroke:#ff0000;*/ display:none;} /* red */
+svg #department2,
+svg .department2 {fill:#ffe4b3; /*stroke:#ffa500;*/ display:none;} /* orange */
+svg #department3,
+svg .department3 {fill:#fff3b3; /*stroke:#ffd700;*/ display:none;} /* gold */
+svg #department4,
+svg .department4 {fill:#ffffb3; /*stroke:#ffff00;*/ display:none;} /* yellow */
+svg #department5,
+svg .department5 {fill:#d9ffb3; /*stroke:#7fff00;*/ display:none;} /* chartreuse */ 
+svg #department6,
+svg .department6 {fill:#bddcbd; /*stroke:#228b22;*/ display:none;} /* forestgreen */
+svg #department7,
+svg .department7 {fill:#b3b3ff; /*stroke:#0000ff;*/ display:none;} /* blue */
+svg #department8,
+svg .department8 {fill:#c9b3da; /*stroke:#4b0082;*/ display:none;} /* indigo */
+svg #department9,
+svg .department9 {fill:#ffb3ff; /*stroke:#ff00ff;*/ display:none;} /* fuchsia */
+svg #department10,
+svg .department10 {fill:#fadafa; /*stroke:#ee82ee;*/ display:none;} /* violet */
+svg #department11,
+svg .department11 {fill:#e4bfbf; /*stroke:#a52a2a;*/ display:none;} /* brown */
+svg #department12,
+svg .department12 {fill:#d9d9d9; /*stroke:#808080;*/ display:none;} /* gray */
+
+
+.checkbutton {
+	display: inline; 
+	}
+.checkbutton label {
+	padding: 2px 4px; 
+	margin: 1px 2px; 
+	/*border: 1px solid #efefef;*/
+	cursor: pointer;
+	}
+.checkbutton input[type=checkbox] + label {
+	font-weight:normal;
+	}
+.checkbutton input[type=checkbox] {
+	clip: rect(0 0 0 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+	}
+
+/* This style works with the "inline anchor menu" (a:link section) at the top of this file */
+.anchor-list .checkbutton input[type=checkbox] + label {
+    margin: 0;
+	padding: 0 4px;
+	text-decoration: none;	
+	position: relative;
+	}
+/* LINK */
+.anchor-list .checkbutton input[type=checkbox] + label,
+.anchor-list .checkbutton input[type=checkbox]:checked + label,
+.anchor-list .checkbutton input[type=checkbox]:hover + label  {
+	display: inline-block; 
+	border: 1px solid silver;				/* border */
+	color: #737373;							/* text */
+	background-color: #f9f9f9;				/* --background-- */
+    text-decoration: none;
+	}
+.anchor-list .checkbutton input[type=checkbox] + label::after, 
+.anchor-list .checkbutton input[type=checkbox]:checked + label::after, 
+.anchor-list .checkbutton input[type=checkbox]:hover + label::after, 
+.anchor-list .checkbutton input[type=checkbox] + label::before,
+.anchor-list .checkbutton input[type=checkbox]:checked + label::before,
+.anchor-list .checkbutton input[type=checkbox]:hover + label::before  {
+	top: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	}
+.anchor-list .checkbutton input[type=checkbox] + label::after,
+.anchor-list .checkbutton input[type=checkbox]:checked + label::after,
+.anchor-list .checkbutton input[type=checkbox]:hover + label::after  {
+	border-color: rgba(98, 98, 98, 0);		/* rgba border */
+	border-top-color: #f9f9f9;				/* --background-- */
+	border-width: 6px;
+	margin-left: -6px;
+	}
+.anchor-list .checkbutton input[type=checkbox] + label::before,
+.anchor-list .checkbutton input[type=checkbox]:checked + label::before,
+.anchor-list .checkbutton input[type=checkbox]:hover + label::before  {
+	border-color: rgba(255, 255, 255, 0);	/* rgba border */
+	border-top-color: #c0c0c0;				/* border */
+	border-width: 7px;
+	margin-left: -7px; 
+	}
+/* hover */
+.anchor-list .checkbutton input[type=checkbox]:hover + label,
+.anchor-list .checkbutton input[type=checkbox]:focus + label  {
+	border: 1px solid gray;					/* border */
+	color: black;							/* text */
+	background-color: white;				/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:hover + label::after,
+.anchor-list .checkbutton input[type=checkbox]:focus + label::after {
+	border-color: rgba(255, 255, 255, 0);	/* rgba border */
+	border-top-color: white;            	/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:hover + label::before,
+.anchor-list .checkbutton input[type=checkbox]:focus + label::before {
+	border-color: rgba(255, 255, 255, 0);	/* rgba border */
+	border-top-color: gray;					/* border */
+	}
+/* checked */
+/* ------------------- 1 red / #ff0000 (255, 0, 0) / 30% #ffb3b3 */
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department1  {
+	border: 1px solid #ff0000;				/* border */
+	color: black;							/* text */
+	background-color: #ffb3b3;				/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department1::after {
+	border-color: rgba(255, 0, 0, 0);		/* rgba border */
+	border-top-color: #ffb3b3;            	/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department1::before {
+	border-color: rgba(255, 0, 0, 0);		/* rgba border */
+	border-top-color: #ff0000;				/* border */
+	}
+/* ------------------- 2 orange / #ffa500 (255, 165, 0) / 30% #ffe4b3 */
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department2  {
+	border: 1px solid #ffa500;				/* border */
+	color: black;							/* text */
+	background-color: #ffe4b3;				/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department2::after {
+	border-color: rgba(255, 165, 0, 0);		/* rgba border */
+	border-top-color: #ffe4b3;            	/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department2::before {
+	border-color: rgba(255, 165, 0, 0);		/* rgba border */
+	border-top-color: #ffa500;				/* border */
+	}
+/* ------------------- 3 gold / #ffd700 (255, 215, 0) / 30% fff3b3 */
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department3  {
+	border: 1px solid #ffd700;				/* border */
+	color: black;							/* text */
+	background-color: #fff3b3;				/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department3::after {
+	border-color: rgba(255, 215, 0, 0);		/* rgba border */
+	border-top-color: #fff3b3;            	/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department3::before {
+	border-color: rgba(255, 215, 0, 0);		/* rgba border */
+	border-top-color: #ffd700;				/* border */
+	}
+/* ------------------- 4 yellow / #ffff00 (255, 255, 0) / 30% #ffffb3 */
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department4  {
+	border: 1px solid #ffff00;				/* border */
+	color: black;							/* text */
+	background-color: #ffffb3;				/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department4::after {
+	border-color: rgba(255, 255, 0, 0);		/* rgba border */
+	border-top-color: #ffffb3;            	/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department4::before {
+	border-color: rgba(255, 255, 0, 0);		/* rgba border */
+	border-top-color: #ffff00;				/* border */
+	}
+/* ------------------- 5 chartreuse / #7fff00 	(127, 255, 0) / 30% #d9ffb3 3*/
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department5  {
+	border: 1px solid #7fff00;				/* border */
+	color: black;							/* text */
+	background-color: #d9ffb3;				/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department5::after {
+	border-color: rgba(127, 255, 0, 0);		/* rgba border */
+	border-top-color: #d9ffb3;            	/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department5::before {
+	border-color: rgba(127, 255, 0, 0);		/* rgba border */
+	border-top-color: #7fff00;				/* border */
+	}
+/* ------------------- 6 forestgreen / #228b22 (34, 139, 34) / 30% #bddcbd */
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department6  {
+	border: 1px solid #228b22;				/* border */
+	color: black;							/* text */
+	background-color: #bddcbd;				/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department6::after {
+	border-color: rgba(34, 139, 34, 0);		/* rgba border */
+	border-top-color: #bddcbd;            	/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department6::before {
+	border-color: rgba(34, 139, 34, 0);		/* rgba border */
+	border-top-color: #228b22;				/* border */
+	}
+/* ------------------- 7 blue / #0000ff (0, 0, 255) / 30% #b3b3ff */
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department7  {
+	border: 1px solid #0000ff;				/* border */
+	color: black;							/* text */
+	background-color: #b3b3ff;				/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department7::after {
+	border-color: rgba(0, 0, 255, 0);		/* rgba border */
+	border-top-color: #b3b3ff;            	/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department7::before {
+	border-color: rgba(0, 0, 255, 0);		/* rgba border */
+	border-top-color: #0000ff;				/* border */
+	}
+/* ------------------- 8 indigo / #4b0082 (75, 0, 130) / 30% #c9b3da */
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department8  {
+	border: 1px solid #4b0082;				/* border */
+	color: black;							/* text */
+	background-color: #c9b3da;				/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department8::after {
+	border-color: rgba(75, 0, 130, 0);		/* rgba border */
+	border-top-color: #c9b3da;            	/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department8::before {
+	border-color: rgba(75, 0, 130, 0);		/* rgba border */
+	border-top-color: #4b0082;				/* border */
+	}
+/* ------------------- 9 fuchsia / #ff00ff (255, 0, 255) / 30% #ffb3ff */
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department9  {
+	border: 1px solid #ff00ff;				/* border */
+	color: black;							/* text */
+	background-color: #ffb3ff;				/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department9::after {
+	border-color: rgba(255, 0, 255, 0);		/* rgba border */
+	border-top-color: #ffb3ff;            	/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department9::before {
+	border-color: rgba(255, 0, 255, 0);		/* rgba border */
+	border-top-color: #ff00ff;				/* border */
+	}
+/* ------------------- 10 violet / #ee82ee (238, 130, 238) / 30% #fadafa */
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department10  {
+	border: 1px solid #ee82ee;				/* border */
+	color: black;							/* text */
+	background-color: #fadafa;				/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department10::after {
+	border-color: rgba(238, 130, 238, 0);	/* rgba border */
+	border-top-color: #fadafa;            	/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department10::before {
+	border-color: rgba(238, 130, 238, 0);	/* rgba border */
+	border-top-color: #ee82ee;				/* border */
+	}
+/* ------------------- 11 brown / #a52a2a (165, 42, 42) / 30% #e4bfbf */
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department11  {
+	border: 1px solid #a52a2a;				/* border */
+	color: black;							/* text */
+	background-color: #e4bfbf;				/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department11::after {
+	border-color: rgba(165, 42, 42, 0);		/* rgba border */
+	border-top-color: #e4bfbf;            	/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department11::before {
+	border-color: rgba(165, 42, 42, 0);		/* rgba border */
+	border-top-color: #a52a2a;				/* border */
+	}
+/* ------------------- 12 gray / #808080 (128, 128, 128) / 30% #d9d9d9 */
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department12  {
+	border: 1px solid #808080;					/* border */
+	color: black;							/* text */
+	background-color: #d9d9d9;				/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department12::after {
+	border-color: rgba(128, 128, 128, 0);	/* rgba border */
+	border-top-color: #d9d9d9;            	/* --background-- */
+	}
+.anchor-list .checkbutton input[type=checkbox]:checked + label#button-department12::before {
+	border-color: rgba(128, 128, 128, 0);	/* rgba border */
+	border-top-color: #808080;				/* border */
+	}
+
+/* -----------------------  Map icons --------------------------------- */
+							/*  Virtual Machines  */
+svg #iconvm circle, svg #iconvmlegend circle {
+	fill:#FCFCFC;
+	stroke:#F90B1C;
+	stroke-miterlimit:10;
+	}
+svg #iconvm path, svg #iconvmlegend path {
+	fill:#F90B1C;
+	}
+							/*  Macs  */
+svg #iconmacs circle, svg #iconmacslegend circle {
+	fill:#FCFCFC;
+	stroke:#F90B1C;
+	stroke-miterlimit:10;
+	}
+svg #iconmacs path, svg #iconmacslegend path {
+	fill:#F90B1C;
+	}
+							/*  Microform Readers  */
+svg #iconmicroforms circle, svg #iconmicroformslegend circle {
+	fill:#FCFCFC;
+	stroke:#CC4B9B;
+	stroke-miterlimit:10;
+	} 
+svg #iconmicroforms path, svg #iconmicroformslegend path {
+	fill:#CC4B9B;
+	} 
+							/*  Printers  */
+svg #iconprinters circle, svg #iconprinterslegend circle {
+	fill:#FDFEFE;
+	stroke:#720DF7;
+	stroke-miterlimit:10;
+	}
+svg #iconprinters path, svg #iconprinterslegend path {
+	fill:#720DF7;
+	}
+							/*  Group Study Rooms  */
+svg #icongroupstudy circle, svg #icongroupstudylegend circle {
+	fill:#FFFFFF;
+	stroke:#24A200;
+	stroke-miterlimit:10;
+	}
+svg #icongroupstudy path, svg #icongroupstudylegend path {
+	fill:#24A200;
+	} 
+							/*  DVD Players  */
+svg #icondvd circle, svg #icondvdlegend circle {
+	fill:#FCFCFC;
+	stroke:#0B821F;
+	stroke-miterlimit:10;
+	}
+svg #icondvd path, svg #icondvdlegend path {
+	fill:#0B821F;
+	} 
+							/*  Copiers  */
+svg #iconcopiers circle, svg #iconcopierslegend circle {
+	fill:#FCFCFC;
+	stroke:#F68B33;
+	stroke-miterlimit:10;
+	}
+svg #iconcopiers path, svg #iconcopierslegend path {
+	fill:#F68B33;
+	}
+							/*  Restrooms  */
+svg #restroom {
+	fill:#F90606;
+	}
+
+/* -----------------------  Map space --------------------------------- */
+svg #columns {
+	fill:#565656;
+	stroke:#020202;
+	stroke-miterlimit:10;
+	}
+svg #couches, svg #cabinets, svg #carrels, svg #carrelslegend, svg #tables {
+	fill:none;
+	stroke:#A97E2C;
+	stroke-miterlimit:10;
+	}
+svg #stacks {
+	fill:none;
+	stroke:#494949;
+	stroke-miterlimit:10;
+	}
+svg #openspaces {
+	fill:#EFEFEF;
+	stroke:#FFFFFF;
+	stroke-miterlimit:10;
+	}
+svg #innerwalls, svg #legendborder, svg #art {
+	fill:none;
+	stroke:#5B5B5B;
+	stroke-width:2;
+	stroke-miterlimit:10;
+	}
+svg #elevators {
+	fill:#FFFFFF;
+	stroke:#000000;
+	stroke-miterlimit:10;
+	}
+svg #servicedesks {
+	fill:#777679;
+	stroke:#464041;
+	stroke-miterlimit:10;
+	}
+svg #stairs {
+	fill:none;
+	stroke:#908FB2;
+	stroke-width:1.5;
+	stroke-miterlimit:10;}
+svg #stairs .stairscenterline {
+	stroke-width:3;
+	}
+svg #outerwalls {
+	fill:none;
+	stroke:#020202;
+	stroke-width:5;
+	stroke-miterlimit:10;
+	}
+svg #outerwalls rect {
+	fill:#231F20;
+	stroke:#020202;
+	stroke-width:5;
+	stroke-miterlimit:10;
+	}
+svg #outerwallselevator {
+	fill:#231F20;
+	stroke:#231F20;
+	stroke-miterlimit:10;
+	}
+svg #windows {
+	fill:none;
+	stroke:#000066;
+	stroke-miterlimit:10;
+	}
+svg #windows, svg #windows line, svg #windows polyline {
+	fill:none;
+	stroke:#000066;
+	stroke-miterlimit:10;
+	}
+svg #windows rect {
+	fill:#FFFFFF;
+	stroke:#000066;
+	stroke-width:2;
+	stroke-miterlimit:10;
+	}
+svg #doors {
+	fill:none;
+	stroke:#908FB2;
+	stroke-width:0.5;
+	stroke-miterlimit:10;
+	}
+svg #atriumfloor {
+	fill:#F4EDED;
+	}
+svg #extentrance {
+	fill:none;
+	stroke:#D6D6D6;
+	stroke-width:2;
+	stroke-miterlimit:10;
+	}
+
+/* -----------------------  Map text --------------------------------- */
+svg #numbers rect, svg #text rect, svg #psdtext, svg #textlegend rect {
+	fill:none;
+	}
+svg #numbers text, svg #text text, svg #textlegend text {
+	font-size:70%;
+	fill:#666;
+	}
+svg #text a {
+	cursor: pointer;
+	text-decoration: underline;
+  }
+svg #text a:hover {
+	cursor: pointer;
+	text-decoration: underline;
+  }
